@@ -1,0 +1,20 @@
+{
+
+	"diseases": [
+		{"name":"HEADACHE", "key":"headAche"},
+		{"name":"BACK PAIN","key":"backPain"},
+		{"name":"MUSCLE PAIN", "key":"musclePain"},
+		{"name":"FLU", "key":"flu"},
+		{"name":"FEVER","key":"fever"},
+		{"name":"BODY ACHE", "key":"bodyAche"},
+		{"name":"ALLERGY", "key":"allergy"},
+		{"name":"COUGH AND COLD", "key":"coughCold"},
+		{"name":"JOINT PAIN", "key":"jointPain"},
+		{"name":"LOOSE STOOL", "key":"looseStool"},
+		{"name":"HIGH BLOOD SUGAR", "key":"highBS"},
+		{"name":"HIGH BLOOD PRESSURE", "key":"highBP"},
+		{"name":"ACNE", "key":"acne"},
+		{"name":"ECZEMA", "key":"eczema"},
+		{"name":"VOMITING","key":"vomit"}
+	]
+}

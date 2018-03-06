@@ -1,0 +1,21 @@
+[
+    {"dis":"HEADACHE","med":["Tylenol", "Bayer","Advil","Aleve","Excedrin"]},
+    {"dis":"BACK PAIN","med":["Motrin","Aleve","Tylenol","Ibuprofen"]},
+    {"dis":"MUSCLE PAIN","med":["Advil","Tylenol","Motrin","Aleve","Naprosyn"]},
+    {"dis":"FLU","med":["Please see you Doctor immediately"]},
+    {"dis":"ADULT FEVER","med":["Tylenol Pain Reliever/Fever Reducer 325 Mg Regular Strength Tablets","Advil"]},
+    {"dis":"CHILD FEVER","med":["Children's Advil Liquid","Children's Motrin Ibuprofen Oral Suspension","CVS Health Junior Strength Ibuprofen"]},
+    {"dis":"BODY ACHE","med":["Tylenol","Motrin","Advil"]},
+    {"dis":"ALLERGY","med":["Benadryl","Zyrtec","Allerga","Xyzal"]},
+    {"dis":"COUGH AND COLD","med":["Mucinex","Nyquil","Cough Drops","Robitussin","Night Time Cold and Flu"]},
+    {"dis":"JOINT PAIN","med":["Tylenol","Bayer","Advil","Motrin","Aleve"]},
+    {"dis":"LOOSE STOOL","med":["Imodium","Kaopecate","Pepto-Bismol"]},
+    {"dis":"HIGH BLOOD SUGAR","med":["Please see you Doctor immediately"]},
+    {"dis":"HIGH BLOOD PRESSURE","med":["Please see you Doctor immediately"]},
+    {"dis":"ACNE","med":["Clearasil","Mario Badescu Drying Lotion","La Roche Posay Effacular Dermatological Acne System","Differin Acne Treatment Gel","Skincueticals LHA Cleansing Gel"]},
+    {"dis":"ECZEMA","med":["Hydrocortisone","Elizabeth Arden Eight Hour Cream Skin Protectant","Cetaphil","Vaseline",
+						"AZO Standard Urinary Pain Relief Tablets",
+						"Cranberry Urinary Tract Health Caps",
+						"Cystex Urinary Pain Relief Tablets"]},
+    {"dis":"VOMITING","med":["Pepto-Bismol","Kaopecate"]}
+]

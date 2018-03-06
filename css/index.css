@@ -1,0 +1,32 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(0deg, #fff, #fff, #fff, #78b4f0) no-repeat;
+}
+
+.title {
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    border-bottom: 3px groove rgb(34, 20, 163); 
+}
+
+.footerSeparator {
+    margin: 0px;
+    background-color: rgb(34, 20, 163);
+    height: 2px;
+    border: 0px;
+    width: 100%;
+}
+
+.humanBody {
+    text-align: center;
+}
+
+.mapArea {
+    border: 2px red solid;
+}

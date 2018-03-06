@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+            <title>Consult Me</title>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <script src="./lib/jquery-3.1.1.js"></script>
+            <script src="./lib/popper.js"></script>
+            <script src="./lib/bootstrap.min.js"></script>
+            <script src="controller.js"></script>
+            <link rel="stylesheet" href="./lib/css/bootstrap.css">
+            <link rel="stylesheet" href="./lib/css/app.css">
+    </head>
+    <body class="body">
+ <!-- Main Page HTML Code -->       
+        <div id="mainPage" style="height: 100%"> 
+            <header>
+                <div style="text-align: center;margin-top: 2%;border-bottom: 2px solid white">
+                    <span style="color: white;font-size: x-large">Consult Me</span>
+                </div>
+            </header>
+                <div style="margin-top: 10%; text-align: center">
+                    <img src="./images/docImage.svg" width="80%"/>
+                </div>
+                <div class="container">
+                     <section>
+                            <div class="input-group" style="text-align: center">
+                                <input type="text" class="form-control formClass" placeholder="Feeling Sick?" id="srchInp" />
+                                <div class="input-group-btn">
+                                    <button class="btn btn-default formClass" onclick="searchMed()" id="searchBtn">
+                                        <span class="glyphicon glyphicon-search"></span></button>
+                                </div>
+                            </div> 
+                     </section> 
+                     <button class="btn btn-link" id="findDocs" style="color: white;padding-left: 0px;font-size: large;margin-top: 10%">
+                                <i class="glyphicon glyphicon-map-marker"></i> Find Doctors Nearby
+                            </button>
+            </div>
+        </div>
+
+    <!-- Medication Page HTML Code -->
+        <div id="medPage" style="display: none;height: 100%">
+            <header>
+                <div style="text-align: center;margin-top: 2%;border-bottom: 2px solid white">
+                        <span style="color: white;font-size: x-large">Medication</span>
+                </div>
+            </header>
+                <div style="margin-top: 10%; text-align: center">
+                    <img src="./images/drugImg.png" width="40%"/>
+                </div>
+            <section style="margin-top: 10%" class="container">
+                <div class="panel panel-default">
+                    <div class="panel-heading"><span id="diseaseHeading" style="font-weight: 700;font-size: large"></span></div>
+                    <div class="panel-body">
+                        <ul id="medicineList">
+                        </ul>
+                    </div>
+                    <div class="panel-footer" style="text-align: center;padding:0">
+                        <button id="mapBtn" class="btn btn-link mapBtn" onclick="openMap()" style="background-color: inherit;border: none;vertical-align: middle;font-size: larger;width: 100%">Locate Pharmacies</button>
+                        <button id="docBtn" class="btn btn-link mapBtn" onclick="meetDoc" style="background-color: inherit;border: none;vertical-align: middle;font-size: larger;width: 100%;display: none">Find Doctors Nearby</button>
+                    </div>
+                </div>
+            </section>
+            <button id="backBtn" onclick="pressBack()" style="width: 100%">BACK</button>
+        </div>
+
+ <!-- Dialog Box Code - Data Not Found Dialog -->  
+        <div class="modal fade" id="dataNotFoundDialog" role="dialog" aria-labelledby="modalLabel">
+            <div class="modal-dialog" style="top:42%">
+        <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-body">
+                    <h3 style="text-align: center">No Data Found</h3>
+                </div>
+            </div>
+        </div>
+        </div>
+<!-- Dialog Box Code - Confirm if patient is Adult -->
+         <div class="modal fade" id="confirmAge" role="dialog" aria-labelledby="modalLabel">
+            <div class="modal-dialog" style="top:42%">
+        <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-title">
+                    <h3 style="text-align: center">Age Confirmation</h3>
+                </div>
+                <div class="modal-body">
+                    <h4 style="text-align: center">Please confirm if patient is Adult ?</h4>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" id="ageYes" data-dismiss="modal">YES</button>
+                    <button type="button" class="btn btn-default" id="ageNo" data-dismiss="modal">NO</button>
+                </div>
+            </div>
+        </div>
+        </div>
+    </body>
+</html>
