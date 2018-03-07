@@ -1,11 +1,13 @@
 "use strict";
 
 angular.module('home', ["cordovaGeolocationModule"])
-    .controller('home-ctrl', function ($scope, cordovaGeolocationService) {
+    .controller('home-ctrl', function ($scope,$location,cordovaGeolocationService) {
 
         $scope.searchText = "";
         $scope.navigate = function (target) {
-            if (target === "body") {
+            if (target === "allMeds"){
+                $location.path("/allMeds");
+            }else if (target === "body") {
                 window.location.href = "#!/body";
             } else {
                 cordovaGeolocationService.getCurrentPosition(function (position) {

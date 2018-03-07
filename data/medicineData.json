@@ -1,694 +1,1398 @@
-[
-
-	{
-		"Name": "8-HOUR BAYER",
-		"Ingredients": ["ASPIRIN"],
-		"Symptoms": ["Fever", "Pain", "Toothaches", "Cold", "Headache"]
-	},
-	{
-		"Name": "ACCUTANE",
-		"Ingredients": ["ISOTRETINOIN"],
-		"Symptoms": ["Severe Acne"]
-	},
-	{
-		"Name": "ACEBUTOLOL HYDROCHLORIDE",
-		"Ingredients": ["ACEBUTOLOL HYDROCHLORIDE"],
-		"Symptoms": ["Hypertension", "Arrhythmias", "High Blood Pressure"]
-	},
-	{
-		"Name": "ACEON",
-		"Ingredients": ["PERINDOPRIL ERBUMINE"],
-		"Symptoms": ["Hypertension", "High Blood Pressure"]
-	},
-	{
-		"Name": "ACEPHEN",
-		"Ingredients": ["ACETAMINOPHEN"],
-		"Symptoms": ["Headache", "Menstrual Aches", "Toothaches", "Backaches", "Fever"]
-	},
-	{
-		"Name": "ACETAMINOPHEN",
-		"Ingredients": ["ACETAMINOPHEN"],
-		"Symptoms": ["Pain", "Fever", "Swelling"]
-	},
-	{
-		"Name": "ACETASOL HC",
-		"Ingredients": ["ACETIC ACID"],
-		"Symptoms": ["Ear infection"]
-	},
-	{
-		"Name": "ACETYLCYSTEINE",
-		"Ingredients": ["ACETYLCYSTEINE"],
-		"Symptoms": ["Blood Sugar"]
-	},
-	{
-		"Name": "ACHES-N-PAIN",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Headache", "Dental Pain", "Menstrual Cramps", "Muscle Aches", "Arthritis"]
-	},
-	{
-		"Name": "ADAGEN",
-		"Ingredients": ["PEGADEMASE BOVINE"],
-		"Symptoms": ["Severe Combined Immunodeficiency Disease (SCID)"]
-	},
-	{
-		"Name": "ADALAT CC",
-		"Ingredients": ["NIFEDIPINE"],
-		"Symptoms": ["High Blood Pressure", "Chest Pain"]
-	},
-	{
-		"Name": "ADVIL ALLERGY AND CONGESTION RELIEF",
-		"Ingredients": ["CHLORPHENIRAMINE MALEATE", " IBUPROFEN", " PHENYLEPHRINE HYDROCHLORIDE"],
-		"Symptoms": ["Allergy", "Nasal Congestion", "Cough"]
-	},
-	{
-		"Name": "ADVIL ALLERGY SINUS",
-		"Ingredients": ["CHLORPHENIRAMINE MALEATE", " IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"],
-		"Symptoms": ["Runny Nose", "Nasal Congestion", "Sneezing", "Itchy/Watery Eyes", "Headache"]
-	},
-	{
-		"Name": "ADVIL COLD AND SINUS",
-		"Ingredients": ["IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"],
-		"Symptoms": ["Sinus Pressure", "Nasal Congestion", "Fever", "Cough"]
-	},
-	{
-		"Name": "ADVIL CONGESTION RELIEF",
-		"Ingredients": ["IBUPROFEN", " PHENYLEPHRINE HYDROCHLORIDE"],
-		"Symptoms": ["Nasal Congestion", "Sinus Pressure", "Nasal Swelling", "Headache", "Fever"]
-	},
-	{
-		"Name": "ADVIL",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Fever", "Swelling", "Cough"]
-	},
-	{
-		"Name": "ADVIL LIQUI-GELS",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Fever", "Swelling", "Cough"]
-	},
-	{
-		"Name": "ADVIL MIGRAINE LIQUI-GELS",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Cough", "Swelling"]
-	},
-	{
-		"Name": "ADVIL PM",
-		"Ingredients": ["DIPHENHYDRAMINE CITRATE", " IBUPROFEN"],
-		"Symptoms": ["Pain", "Sleep Aid", "Cough"]
-	},
-	{
-		"Name": "ADZENYS ER",
-		"Ingredients": ["AMPHETAMINE"],
-		"Symptoms": ["Attention Deficit Hyperactivity Disorder (ADHD) "]
-	},
-	{
-		"Name": "AEROSEB-DEX",
-		"Ingredients": ["DEXAMETHASONE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "ALDACTONE",
-		"Ingredients": ["SPIRONOLACTONE"],
-		"Symptoms": ["High Blood Pressure"]
-	},
-	{
-		"Name": "ALDARA",
-		"Ingredients": ["IMIQUIMOD"],
-		"Symptoms": ["Anal Warts"]
-	},
-	{
-		"Name": "ALEVE-D SINUS & COLD",
-		"Ingredients": ["NAPROXEN SODIUM", " PSEUDOEPHEDRINE HYDROCHLORIDE"],
-		"Symptoms": ["Pain", "Fever"]
-	},
-	{
-		"Name": "ALEVE",
-		"Ingredients": ["NAPROXEN SODIUM"],
-		"Symptoms": ["Pain", "Fever"]
-	},
-	{
-		"Name": "ALEVE PM",
-		"Ingredients": ["DIPHENHYDRAMINE HYDROCHLORIDE", " NAPROXEN SODIUM"],
-		"Symptoms": ["Pain", "Fever", "Sleep Aid"]
-	},
-	{
-		"Name": "ALLEGRA ALLERGY",
-		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE"],
-		"Symptoms": ["Sneezing", "Runny Nose", "Itchy/Watery Eyes", "Itchy Nose", "Itchy Throat"]
-	},
-	{
-		"Name": "ALLEGRA-D 12 HOUR ALLERGY AND CONGESTION",
-		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE", " PSEUDOEPHEDRINE HYDROCHLORIDE"],
-		"Symptoms": ["Nasal Congestion", "Sinus Congestion", "Sinus Pressure", "Runny Nose", "Sneezing"]
-	},
-	{
-		"Name": "ALLEGRA-D 24 HOUR ALLERGY AND CONGESTION",
-		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE", " PSEUDOEPHEDRINE HYDROCHLORIDE"],
-		"Symptoms": ["Nasal Congestion", "Sinus Congestion", "Sinus Pressure", "Runny Nose", "Sneezing"]
-	},
-	{
-		"Name": "ALLEGRA",
-		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE"],
-		"Symptoms": ["Allergy"]
-	},
-	{
-		"Name": "APREPITANT",
-		"Ingredients": ["APREPITANT"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "ASPIRIN",
-		"Ingredients": ["ASPIRIN"],
-		"Symptoms": ["Swelling"]
-	},
-	{
-		"Name": "ATIVAN",
-		"Ingredients": ["LORAZEPAM"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "BACLOFEN",
-		"Ingredients": ["BACLOFEN"],
-		"Symptoms": ["Muscle Spasms"]
-	},
-	{
-		"Name": "BACTRIM",
-		"Ingredients": ["SULFAMETHOXAZOLE", " TRIMETHOPRIM"],
-		"Symptoms": ["Urinary Tract Infection", "Diarrhea"]
-	},
-	{
-		"Name": "BACTROBAN",
-		"Ingredients": ["MUPIROCIN"],
-		"Symptoms": ["Skin Irritation", "Skin Itchiness", "Skin Infection"]
-	},
-	{
-		"Name": "BAYER EXTRA STRENGTH ASPIRIN FOR MIGRAINE PAIN",
-		"Ingredients": ["ASPIRIN"],
-		"Symptoms": ["Swelling"]
-	},
-	{
-		"Name": "BENADRYL",
-		"Ingredients": ["DIPHENHYDRAMINE HYDROCHLORIDE"],
-		"Symptoms": ["Pain", "Insect Bite", "Cuts", "Burns", "Poison Ivy"]
-	},
-	{
-		"Name": "BETA-HC",
-		"Ingredients": ["HYDROCORTISONE"],
-		"Symptoms": ["Itch", "Rash", "Skin Irritation"]
-	},
-	{
-		"Name": "BONIVA",
-		"Ingredients": ["IBANDRONATE SODIUM"],
-		"Symptoms": ["Osteoporosis"]
-	},
-	{
-		"Name": "BONJESTA",
-		"Ingredients": ["DOXYLAMINE SUCCINATE", " PYRIDOXINE HYDROCHLORIDE"],
-		"Symptoms": ["Nausea (ONLY FOR PREGNANT WOMEN)"]
-	},
-	{
-		"Name": "CALDOLOR",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "CALMURID HC",
-		"Ingredients": ["HYDROCORTISONE", " UREA"],
-		"Symptoms": ["Rash", "Itch", "Skin Irritation"]
-	},
-	{
-		"Name": "CAP-PROFEN",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "CETACORT",
-		"Ingredients": ["HYDROCORTISONE"],
-		"Symptoms": ["Skin Irritation", "Rash", "Itch"]
-	},
-	{
-		"Name": "CHILDREN'S ADVIL ALLERGY SINUS",
-		"Ingredients": ["CHLORPHENIRAMINE MALEATE", " IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"],
-		"Symptoms": ["Allergy", "Fever", "Pain", "Sinus Congestion"]
-	},
-	{
-		"Name": "CHILDREN'S ADVIL COLD",
-		"Ingredients": ["IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"],
-		"Symptoms": ["Cold", "Fever", "Pain"]
-	},
-	{
-		"Name": "CHILDREN'S ADVIL-FLAVORED",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Swelling"]
-	},
-	{
-		"Name": "CHILDREN'S ADVIL",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Swelling"]
-	},
-	{
-		"Name": "CHILDREN'S ELIXSURE",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "CHILDREN'S IBUPROFEN",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "CHILDREN'S MOTRIN COLD",
-		"Ingredients": ["IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"],
-		"Symptoms": ["Pain"]
-	},
-	{
-		"Name": "CHILDREN'S MOTRIN",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "CINVANTI",
-		"Ingredients": ["APREPITANT"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "COLOCORT",
-		"Ingredients": ["HYDROCORTISONE"],
-		"Symptoms": ["Skin Irritation", "Rash", "Itch"]
-	},
-	{
-		"Name": "COMBUNOX",
-		"Ingredients": ["IBUPROFEN", " OXYCODONE HYDROCHLORIDE"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "CORT-DOME",
-		"Ingredients": ["HYDROCORTISONE"],
-		"Symptoms": ["Skin Irritation", "Rash", "Itch"]
-	},
-	{
-		"Name": "CORTEF",
-		"Ingredients": ["HYDROCORTISONE"],
-		"Symptoms": ["Skin Irritation", "Rash", "Itch"]
-	},
-	{
-		"Name": "CORTENEMA",
-		"Ingredients": ["HYDROCORTISONE"],
-		"Symptoms": ["Skin Irritation", "Rash", "Itch"]
-	},
-	{
-		"Name": "CYCLOSPORINE",
-		"Ingredients": ["CYCLOSPORINE"],
-		"Symptoms": ["Dry Eyes"]
-	},
-	{
-		"Name": "DECADERM",
-		"Ingredients": ["DEXAMETHASONE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "DECADRON",
-		"Ingredients": ["DEXAMETHASONE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "DECASPRAY",
-		"Ingredients": ["DEXAMETHASONE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "DEXONE 0.5",
-		"Ingredients": ["DEXAMETHASONE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "DEXONE 0.75",
-		"Ingredients": ["DEXAMETHASONE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "DEXONE 1.5",
-		"Ingredients": ["DEXAMETHASONE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "DEXONE 4",
-		"Ingredients": ["DEXAMETHASONE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "DEXYCU",
-		"Ingredients": ["DEXAMETHASONE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "DURLAZA",
-		"Ingredients": ["ASPIRIN"],
-		"Symptoms": ["Swelling"]
-	},
-	{
-		"Name": "EC-NAPROSYN",
-		"Ingredients": ["NAPROXEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "EMEND",
-		"Ingredients": ["APREPITANT"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "FAMOTIDINE",
-		"Ingredients": ["FAMOTIDINE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "FAMOTIDINE PRESERVATIVE FREE",
-		"Ingredients": ["FAMOTIDINE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "FAMOTIDINE PRESERVATIVE FREE IN PLASTIC CONTAINER",
-		"Ingredients": ["FAMOTIDINE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "FAMOTIDINE PRESERVATIVE FREE (PHARMACY BULK)",
-		"Ingredients": ["FAMOTIDINE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "FLUXID",
-		"Ingredients": ["FAMOTIDINE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "GENGRAF",
-		"Ingredients": ["CYCLOSPORINE"],
-		"Symptoms": ["Dry Eyes"]
-	},
-	{
-		"Name": "GUAIFENESIN",
-		"Ingredients": ["GUAIFENESIN"],
-		"Symptoms": ["Cough"]
-	},
-	{
-		"Name": "HEXADROL",
-		"Ingredients": ["DEXAMETHASONE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "IBU",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "IBUPRIN",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "IBUPROFEN",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain"]
-	},
-	{
-		"Name": "IBUPROHM",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "IBU-TAB 200",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "IBU-TAB",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "INFANTS' FEVERALL",
-		"Ingredients": ["ACETAMINOPHEN"],
-		"Symptoms": ["Swelling"]
-	},
-	{
-		"Name": "INJECTAPAP",
-		"Ingredients": ["ACETAMINOPHEN"],
-		"Symptoms": ["Swelling"]
-	},
-	{
-		"Name": "JUNIOR STRENGTH ADVIL",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "JUNIOR STRENGTH IBUPROFEN",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "JUNIOR STRENGTH MOTRIN",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "LORAZEPAM INTENSOL",
-		"Ingredients": ["LORAZEPAM"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "LORAZEPAM",
-		"Ingredients": ["LORAZEPAM"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "LORAZEPAM PRESERVATIVE FREE",
-		"Ingredients": ["LORAZEPAM"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "LORAZ",
-		"Ingredients": ["LORAZEPAM"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "MEASURIN",
-		"Ingredients": ["ASPIRIN"],
-		"Symptoms": ["Swelling"]
-	},
-	{
-		"Name": "MEDIPREN",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "MIDOL",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "MIDOL LIQUID GELS",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "MOTRIN IB",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "MOTRIN",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "MOTRIN MIGRAINE PAIN",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "MUCINEX D",
-		"Ingredients": ["GUAIFENESIN", " PSEUDOEPHEDRINE HYDROCHLORIDE"],
-		"Symptoms": ["Cough"]
-	},
-	{
-		"Name": "MUCINEX DM",
-		"Ingredients": ["DEXTROMETHORPHAN HYDROBROMIDE", " GUAIFENESIN"],
-		"Symptoms": ["Cough"]
-	},
-	{
-		"Name": "MUCINEX",
-		"Ingredients": ["GUAIFENESIN"],
-		"Symptoms": ["Cough"]
-	},
-	{
-		"Name": "NAPROSYN",
-		"Ingredients": ["NAPROXEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "NAPROXEN",
-		"Ingredients": ["NAPROXEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "NEOPAP",
-		"Ingredients": ["ACETAMINOPHEN"],
-		"Symptoms": ["Swelling"]
-	},
-	{
-		"Name": "NEORAL",
-		"Ingredients": ["CYCLOSPORINE"],
-		"Symptoms": ["Dry Eyes"]
-	},
-	{
-		"Name": "NUPRIN",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "OFIRMEV",
-		"Ingredients": ["ACETAMINOPHEN"],
-		"Symptoms": ["Swelling"]
-	},
-	{
-		"Name": "ONDANSETRON",
-		"Ingredients": ["ONDANSETRON"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "OZURDEX",
-		"Ingredients": ["DEXAMETHASONE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "PEDIATRIC ADVIL",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "PEPCID AC ",
-		"Ingredients": ["FAMOTIDINE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "PEPCID AC",
-		"Ingredients": ["FAMOTIDINE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "PEPCID",
-		"Ingredients": ["FAMOTIDINE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "PEPCID PRESERVATIVE FREE",
-		"Ingredients": ["FAMOTIDINE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "PEPCID PRESERVATIVE FREE IN PLASTIC CONTAINER",
-		"Ingredients": ["FAMOTIDINE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "PEPCID RPD",
-		"Ingredients": ["FAMOTIDINE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "PROFEN",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "RANITIDINE",
-		"Ingredients": ["RANITIDINE"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "RESTASIS",
-		"Ingredients": ["CYCLOSPORINE"],
-		"Symptoms": ["Dry Eyes"]
-	},
-	{
-		"Name": "RESTASIS MULTIDOSE",
-		"Ingredients": ["CYCLOSPORINE"],
-		"Symptoms": ["Dry Eyes"]
-	},
-	{
-		"Name": "RUFEN",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "SANCUSO",
-		"Ingredients": ["GRANISETRON"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "SANDIMMUNE",
-		"Ingredients": ["CYCLOSPORINE"],
-		"Symptoms": ["Dry Eyes"]
-	},
-	{
-		"Name": "SUSTOL",
-		"Ingredients": ["GRANISETRON"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "TAB-PROFEN",
-		"Ingredients": ["IBUPROFEN"],
-		"Symptoms": ["Pain", "Swelling"]
-	},
-	{
-		"Name": "TYLENOL ",
-		"Ingredients": ["ACETAMINOPHEN"],
-		"Symptoms": ["Pain", "Swelling", "Cough"]
-	},
-	{
-		"Name": "TYLENOL",
-		"Ingredients": ["ACETAMINOPHEN"],
-		"Symptoms": ["Pain", "Swelling", "Cough"]
-	},
-	{
-		"Name": "TYLENOL W/ CODEINE",
-		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"],
-		"Symptoms": ["Pain", "Swelling", "Cough"]
-	},
-	{
-		"Name": "TYLENOL W/ CODEINE NO. 1",
-		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"],
-		"Symptoms": ["Pain", "Swelling", "Cough"]
-	},
-	{
-		"Name": "TYLENOL W/ CODEINE NO. 2",
-		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"],
-		"Symptoms": ["Pain", "Swelling", "Cough"]
-	},
-	{
-		"Name": "TYLENOL W/ CODEINE NO. 3",
-		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"],
-		"Symptoms": ["Pain", "Swelling", "Cough"]
-	},
-	{
-		"Name": "TYLENOL W/ CODEINE NO. 4",
-		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"],
-		"Symptoms": ["Pain", "Swelling", "Cough"]
-	},
-	{
-		"Name": "VICOPROFEN",
-		"Ingredients": ["HYDROCODONE BITARTRATE", " IBUPROFEN"],
-		"Symptoms": ["Pain"]
-	},
-	{
-		"Name": "ZOFRAN ODT",
-		"Ingredients": ["ONDANSETRON"],
-		"Symptoms": ["Nausea"]
-	},
-	{
-		"Name": "ZUPLENZ",
-		"Ingredients": ["ONDANSETRON"],
-		"Symptoms": ["Nausea"]
-	}
-
-]
+{
+	"medicines": [
+		{
+			"Name": "8-HOUR BAYER",
+			"Ingredients": [
+				"ASPIRIN"
+			],
+			"Symptoms": [
+				"Fever",
+				"Pain",
+				"Toothaches",
+				"Cold",
+				"Headache"
+			]
+		},
+		{
+			"Name": "ACCUTANE",
+			"Ingredients": [
+				"ISOTRETINOIN"
+			],
+			"Symptoms": [
+				"Severe Acne"
+			]
+		},
+		{
+			"Name": "ACEBUTOLOL HYDROCHLORIDE",
+			"Ingredients": [
+				"ACEBUTOLOL HYDROCHLORIDE"
+			],
+			"Symptoms": [
+				"Hypertension",
+				"Arrhythmias",
+				"High Blood Pressure"
+			]
+		},
+		{
+			"Name": "ACEON",
+			"Ingredients": [
+				"PERINDOPRIL ERBUMINE"
+			],
+			"Symptoms": [
+				"Hypertension",
+				"High Blood Pressure"
+			]
+		},
+		{
+			"Name": "ACEPHEN",
+			"Ingredients": [
+				"ACETAMINOPHEN"
+			],
+			"Symptoms": [
+				"Headache",
+				"Menstrual Aches",
+				"Toothaches",
+				"Backaches",
+				"Fever"
+			]
+		},
+		{
+			"Name": "ACETAMINOPHEN",
+			"Ingredients": [
+				"ACETAMINOPHEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Fever",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "ACETASOL HC",
+			"Ingredients": [
+				"ACETIC ACID"
+			],
+			"Symptoms": [
+				"Ear infection"
+			]
+		},
+		{
+			"Name": "ACETYLCYSTEINE",
+			"Ingredients": [
+				"ACETYLCYSTEINE"
+			],
+			"Symptoms": [
+				"Blood Sugar"
+			]
+		},
+		{
+			"Name": "ACHES-N-PAIN",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Headache",
+				"Dental Pain",
+				"Menstrual Cramps",
+				"Muscle Aches",
+				"Arthritis"
+			]
+		},
+		{
+			"Name": "ADAGEN",
+			"Ingredients": [
+				"PEGADEMASE BOVINE"
+			],
+			"Symptoms": [
+				"Severe Combined Immunodeficiency Disease (SCID)"
+			]
+		},
+		{
+			"Name": "ADALAT CC",
+			"Ingredients": [
+				"NIFEDIPINE"
+			],
+			"Symptoms": [
+				"High Blood Pressure",
+				"Chest Pain"
+			]
+		},
+		{
+			"Name": "ADVIL ALLERGY AND CONGESTION RELIEF",
+			"Ingredients": [
+				"CHLORPHENIRAMINE MALEATE",
+				" IBUPROFEN",
+				" PHENYLEPHRINE HYDROCHLORIDE"
+			],
+			"Symptoms": [
+				"Allergy",
+				"Nasal Congestion",
+				"Cough"
+			]
+		},
+		{
+			"Name": "ADVIL ALLERGY SINUS",
+			"Ingredients": [
+				"CHLORPHENIRAMINE MALEATE",
+				" IBUPROFEN",
+				" PSEUDOEPHEDRINE HYDROCHLORIDE"
+			],
+			"Symptoms": [
+				"Runny Nose",
+				"Nasal Congestion",
+				"Sneezing",
+				"Itchy/Watery Eyes",
+				"Headache"
+			]
+		},
+		{
+			"Name": "ADVIL COLD AND SINUS",
+			"Ingredients": [
+				"IBUPROFEN",
+				" PSEUDOEPHEDRINE HYDROCHLORIDE"
+			],
+			"Symptoms": [
+				"Sinus Pressure",
+				"Nasal Congestion",
+				"Fever",
+				"Cough"
+			]
+		},
+		{
+			"Name": "ADVIL CONGESTION RELIEF",
+			"Ingredients": [
+				"IBUPROFEN",
+				" PHENYLEPHRINE HYDROCHLORIDE"
+			],
+			"Symptoms": [
+				"Nasal Congestion",
+				"Sinus Pressure",
+				"Nasal Swelling",
+				"Headache",
+				"Fever"
+			]
+		},
+		{
+			"Name": "ADVIL",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Fever",
+				"Swelling",
+				"Cough"
+			]
+		},
+		{
+			"Name": "ADVIL LIQUI-GELS",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Fever",
+				"Swelling",
+				"Cough"
+			]
+		},
+		{
+			"Name": "ADVIL MIGRAINE LIQUI-GELS",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Cough",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "ADVIL PM",
+			"Ingredients": [
+				"DIPHENHYDRAMINE CITRATE",
+				" IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Sleep Aid",
+				"Cough"
+			]
+		},
+		{
+			"Name": "ADZENYS ER",
+			"Ingredients": [
+				"AMPHETAMINE"
+			],
+			"Symptoms": [
+				"Attention Deficit Hyperactivity Disorder (ADHD) "
+			]
+		},
+		{
+			"Name": "AEROSEB-DEX",
+			"Ingredients": [
+				"DEXAMETHASONE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "ALDACTONE",
+			"Ingredients": [
+				"SPIRONOLACTONE"
+			],
+			"Symptoms": [
+				"High Blood Pressure"
+			]
+		},
+		{
+			"Name": "ALDARA",
+			"Ingredients": [
+				"IMIQUIMOD"
+			],
+			"Symptoms": [
+				"Anal Warts"
+			]
+		},
+		{
+			"Name": "ALEVE-D SINUS & COLD",
+			"Ingredients": [
+				"NAPROXEN SODIUM",
+				" PSEUDOEPHEDRINE HYDROCHLORIDE"
+			],
+			"Symptoms": [
+				"Pain",
+				"Fever"
+			]
+		},
+		{
+			"Name": "ALEVE",
+			"Ingredients": [
+				"NAPROXEN SODIUM"
+			],
+			"Symptoms": [
+				"Pain",
+				"Fever"
+			]
+		},
+		{
+			"Name": "ALEVE PM",
+			"Ingredients": [
+				"DIPHENHYDRAMINE HYDROCHLORIDE",
+				" NAPROXEN SODIUM"
+			],
+			"Symptoms": [
+				"Pain",
+				"Fever",
+				"Sleep Aid"
+			]
+		},
+		{
+			"Name": "ALLEGRA ALLERGY",
+			"Ingredients": [
+				"FEXOFENADINE HYDROCHLORIDE"
+			],
+			"Symptoms": [
+				"Sneezing",
+				"Runny Nose",
+				"Itchy/Watery Eyes",
+				"Itchy Nose",
+				"Itchy Throat"
+			]
+		},
+		{
+			"Name": "ALLEGRA-D 12 HOUR ALLERGY AND CONGESTION",
+			"Ingredients": [
+				"FEXOFENADINE HYDROCHLORIDE",
+				" PSEUDOEPHEDRINE HYDROCHLORIDE"
+			],
+			"Symptoms": [
+				"Nasal Congestion",
+				"Sinus Congestion",
+				"Sinus Pressure",
+				"Runny Nose",
+				"Sneezing"
+			]
+		},
+		{
+			"Name": "ALLEGRA-D 24 HOUR ALLERGY AND CONGESTION",
+			"Ingredients": [
+				"FEXOFENADINE HYDROCHLORIDE",
+				" PSEUDOEPHEDRINE HYDROCHLORIDE"
+			],
+			"Symptoms": [
+				"Nasal Congestion",
+				"Sinus Congestion",
+				"Sinus Pressure",
+				"Runny Nose",
+				"Sneezing"
+			]
+		},
+		{
+			"Name": "ALLEGRA",
+			"Ingredients": [
+				"FEXOFENADINE HYDROCHLORIDE"
+			],
+			"Symptoms": [
+				"Allergy"
+			]
+		},
+		{
+			"Name": "APREPITANT",
+			"Ingredients": [
+				"APREPITANT"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "ASPIRIN",
+			"Ingredients": [
+				"ASPIRIN"
+			],
+			"Symptoms": [
+				"Swelling"
+			]
+		},
+		{
+			"Name": "ATIVAN",
+			"Ingredients": [
+				"LORAZEPAM"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "BACLOFEN",
+			"Ingredients": [
+				"BACLOFEN"
+			],
+			"Symptoms": [
+				"Muscle Spasms"
+			]
+		},
+		{
+			"Name": "BACTRIM",
+			"Ingredients": [
+				"SULFAMETHOXAZOLE",
+				" TRIMETHOPRIM"
+			],
+			"Symptoms": [
+				"Urinary Tract Infection",
+				"Diarrhea"
+			]
+		},
+		{
+			"Name": "BACTROBAN",
+			"Ingredients": [
+				"MUPIROCIN"
+			],
+			"Symptoms": [
+				"Skin Irritation",
+				"Skin Itchiness",
+				"Skin Infection"
+			]
+		},
+		{
+			"Name": "BAYER EXTRA STRENGTH ASPIRIN FOR MIGRAINE PAIN",
+			"Ingredients": [
+				"ASPIRIN"
+			],
+			"Symptoms": [
+				"Swelling"
+			]
+		},
+		{
+			"Name": "BENADRYL",
+			"Ingredients": [
+				"DIPHENHYDRAMINE HYDROCHLORIDE"
+			],
+			"Symptoms": [
+				"Pain",
+				"Insect Bite",
+				"Cuts",
+				"Burns",
+				"Poison Ivy"
+			]
+		},
+		{
+			"Name": "BETA-HC",
+			"Ingredients": [
+				"HYDROCORTISONE"
+			],
+			"Symptoms": [
+				"Itch",
+				"Rash",
+				"Skin Irritation"
+			]
+		},
+		{
+			"Name": "BONIVA",
+			"Ingredients": [
+				"IBANDRONATE SODIUM"
+			],
+			"Symptoms": [
+				"Osteoporosis"
+			]
+		},
+		{
+			"Name": "BONJESTA",
+			"Ingredients": [
+				"DOXYLAMINE SUCCINATE",
+				" PYRIDOXINE HYDROCHLORIDE"
+			],
+			"Symptoms": [
+				"Nausea (ONLY FOR PREGNANT WOMEN)"
+			]
+		},
+		{
+			"Name": "CALDOLOR",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "CALMURID HC",
+			"Ingredients": [
+				"HYDROCORTISONE",
+				" UREA"
+			],
+			"Symptoms": [
+				"Rash",
+				"Itch",
+				"Skin Irritation"
+			]
+		},
+		{
+			"Name": "CAP-PROFEN",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "CETACORT",
+			"Ingredients": [
+				"HYDROCORTISONE"
+			],
+			"Symptoms": [
+				"Skin Irritation",
+				"Rash",
+				"Itch"
+			]
+		},
+		{
+			"Name": "CHILDREN'S ADVIL ALLERGY SINUS",
+			"Ingredients": [
+				"CHLORPHENIRAMINE MALEATE",
+				" IBUPROFEN",
+				" PSEUDOEPHEDRINE HYDROCHLORIDE"
+			],
+			"Symptoms": [
+				"Allergy",
+				"Fever",
+				"Pain",
+				"Sinus Congestion"
+			]
+		},
+		{
+			"Name": "CHILDREN'S ADVIL COLD",
+			"Ingredients": [
+				"IBUPROFEN",
+				" PSEUDOEPHEDRINE HYDROCHLORIDE"
+			],
+			"Symptoms": [
+				"Cold",
+				"Fever",
+				"Pain"
+			]
+		},
+		{
+			"Name": "CHILDREN'S ADVIL-FLAVORED",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Swelling"
+			]
+		},
+		{
+			"Name": "CHILDREN'S ADVIL",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Swelling"
+			]
+		},
+		{
+			"Name": "CHILDREN'S ELIXSURE",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "CHILDREN'S IBUPROFEN",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "CHILDREN'S MOTRIN COLD",
+			"Ingredients": [
+				"IBUPROFEN",
+				" PSEUDOEPHEDRINE HYDROCHLORIDE"
+			],
+			"Symptoms": [
+				"Pain"
+			]
+		},
+		{
+			"Name": "CHILDREN'S MOTRIN",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "CINVANTI",
+			"Ingredients": [
+				"APREPITANT"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "COLOCORT",
+			"Ingredients": [
+				"HYDROCORTISONE"
+			],
+			"Symptoms": [
+				"Skin Irritation",
+				"Rash",
+				"Itch"
+			]
+		},
+		{
+			"Name": "COMBUNOX",
+			"Ingredients": [
+				"IBUPROFEN",
+				" OXYCODONE HYDROCHLORIDE"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "CORT-DOME",
+			"Ingredients": [
+				"HYDROCORTISONE"
+			],
+			"Symptoms": [
+				"Skin Irritation",
+				"Rash",
+				"Itch"
+			]
+		},
+		{
+			"Name": "CORTEF",
+			"Ingredients": [
+				"HYDROCORTISONE"
+			],
+			"Symptoms": [
+				"Skin Irritation",
+				"Rash",
+				"Itch"
+			]
+		},
+		{
+			"Name": "CORTENEMA",
+			"Ingredients": [
+				"HYDROCORTISONE"
+			],
+			"Symptoms": [
+				"Skin Irritation",
+				"Rash",
+				"Itch"
+			]
+		},
+		{
+			"Name": "CYCLOSPORINE",
+			"Ingredients": [
+				"CYCLOSPORINE"
+			],
+			"Symptoms": [
+				"Dry Eyes"
+			]
+		},
+		{
+			"Name": "DECADERM",
+			"Ingredients": [
+				"DEXAMETHASONE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "DECADRON",
+			"Ingredients": [
+				"DEXAMETHASONE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "DECASPRAY",
+			"Ingredients": [
+				"DEXAMETHASONE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "DEXONE 0.5",
+			"Ingredients": [
+				"DEXAMETHASONE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "DEXONE 0.75",
+			"Ingredients": [
+				"DEXAMETHASONE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "DEXONE 1.5",
+			"Ingredients": [
+				"DEXAMETHASONE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "DEXONE 4",
+			"Ingredients": [
+				"DEXAMETHASONE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "DEXYCU",
+			"Ingredients": [
+				"DEXAMETHASONE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "DURLAZA",
+			"Ingredients": [
+				"ASPIRIN"
+			],
+			"Symptoms": [
+				"Swelling"
+			]
+		},
+		{
+			"Name": "EC-NAPROSYN",
+			"Ingredients": [
+				"NAPROXEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "EMEND",
+			"Ingredients": [
+				"APREPITANT"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "FAMOTIDINE",
+			"Ingredients": [
+				"FAMOTIDINE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "FAMOTIDINE PRESERVATIVE FREE",
+			"Ingredients": [
+				"FAMOTIDINE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "FAMOTIDINE PRESERVATIVE FREE IN PLASTIC CONTAINER",
+			"Ingredients": [
+				"FAMOTIDINE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "FAMOTIDINE PRESERVATIVE FREE (PHARMACY BULK)",
+			"Ingredients": [
+				"FAMOTIDINE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "FLUXID",
+			"Ingredients": [
+				"FAMOTIDINE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "GENGRAF",
+			"Ingredients": [
+				"CYCLOSPORINE"
+			],
+			"Symptoms": [
+				"Dry Eyes"
+			]
+		},
+		{
+			"Name": "GUAIFENESIN",
+			"Ingredients": [
+				"GUAIFENESIN"
+			],
+			"Symptoms": [
+				"Cough"
+			]
+		},
+		{
+			"Name": "HEXADROL",
+			"Ingredients": [
+				"DEXAMETHASONE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "IBU",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "IBUPRIN",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "IBUPROFEN",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain"
+			]
+		},
+		{
+			"Name": "IBUPROHM",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "IBU-TAB 200",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "IBU-TAB",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "INFANTS' FEVERALL",
+			"Ingredients": [
+				"ACETAMINOPHEN"
+			],
+			"Symptoms": [
+				"Swelling"
+			]
+		},
+		{
+			"Name": "INJECTAPAP",
+			"Ingredients": [
+				"ACETAMINOPHEN"
+			],
+			"Symptoms": [
+				"Swelling"
+			]
+		},
+		{
+			"Name": "JUNIOR STRENGTH ADVIL",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "JUNIOR STRENGTH IBUPROFEN",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "JUNIOR STRENGTH MOTRIN",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "LORAZEPAM INTENSOL",
+			"Ingredients": [
+				"LORAZEPAM"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "LORAZEPAM",
+			"Ingredients": [
+				"LORAZEPAM"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "LORAZEPAM PRESERVATIVE FREE",
+			"Ingredients": [
+				"LORAZEPAM"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "LORAZ",
+			"Ingredients": [
+				"LORAZEPAM"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "MEASURIN",
+			"Ingredients": [
+				"ASPIRIN"
+			],
+			"Symptoms": [
+				"Swelling"
+			]
+		},
+		{
+			"Name": "MEDIPREN",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "MIDOL",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "MIDOL LIQUID GELS",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "MOTRIN IB",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "MOTRIN",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "MOTRIN MIGRAINE PAIN",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "MUCINEX D",
+			"Ingredients": [
+				"GUAIFENESIN",
+				" PSEUDOEPHEDRINE HYDROCHLORIDE"
+			],
+			"Symptoms": [
+				"Cough"
+			]
+		},
+		{
+			"Name": "MUCINEX DM",
+			"Ingredients": [
+				"DEXTROMETHORPHAN HYDROBROMIDE",
+				" GUAIFENESIN"
+			],
+			"Symptoms": [
+				"Cough"
+			]
+		},
+		{
+			"Name": "MUCINEX",
+			"Ingredients": [
+				"GUAIFENESIN"
+			],
+			"Symptoms": [
+				"Cough"
+			]
+		},
+		{
+			"Name": "NAPROSYN",
+			"Ingredients": [
+				"NAPROXEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "NAPROXEN",
+			"Ingredients": [
+				"NAPROXEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "NEOPAP",
+			"Ingredients": [
+				"ACETAMINOPHEN"
+			],
+			"Symptoms": [
+				"Swelling"
+			]
+		},
+		{
+			"Name": "NEORAL",
+			"Ingredients": [
+				"CYCLOSPORINE"
+			],
+			"Symptoms": [
+				"Dry Eyes"
+			]
+		},
+		{
+			"Name": "NUPRIN",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "OFIRMEV",
+			"Ingredients": [
+				"ACETAMINOPHEN"
+			],
+			"Symptoms": [
+				"Swelling"
+			]
+		},
+		{
+			"Name": "ONDANSETRON",
+			"Ingredients": [
+				"ONDANSETRON"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "OZURDEX",
+			"Ingredients": [
+				"DEXAMETHASONE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "PEDIATRIC ADVIL",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "PEPCID AC ",
+			"Ingredients": [
+				"FAMOTIDINE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "PEPCID AC",
+			"Ingredients": [
+				"FAMOTIDINE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "PEPCID",
+			"Ingredients": [
+				"FAMOTIDINE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "PEPCID PRESERVATIVE FREE",
+			"Ingredients": [
+				"FAMOTIDINE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "PEPCID PRESERVATIVE FREE IN PLASTIC CONTAINER",
+			"Ingredients": [
+				"FAMOTIDINE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "PEPCID RPD",
+			"Ingredients": [
+				"FAMOTIDINE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "PROFEN",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "RANITIDINE",
+			"Ingredients": [
+				"RANITIDINE"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "RESTASIS",
+			"Ingredients": [
+				"CYCLOSPORINE"
+			],
+			"Symptoms": [
+				"Dry Eyes"
+			]
+		},
+		{
+			"Name": "RESTASIS MULTIDOSE",
+			"Ingredients": [
+				"CYCLOSPORINE"
+			],
+			"Symptoms": [
+				"Dry Eyes"
+			]
+		},
+		{
+			"Name": "RUFEN",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "SANCUSO",
+			"Ingredients": [
+				"GRANISETRON"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "SANDIMMUNE",
+			"Ingredients": [
+				"CYCLOSPORINE"
+			],
+			"Symptoms": [
+				"Dry Eyes"
+			]
+		},
+		{
+			"Name": "SUSTOL",
+			"Ingredients": [
+				"GRANISETRON"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "TAB-PROFEN",
+			"Ingredients": [
+				"IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling"
+			]
+		},
+		{
+			"Name": "TYLENOL ",
+			"Ingredients": [
+				"ACETAMINOPHEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling",
+				"Cough"
+			]
+		},
+		{
+			"Name": "TYLENOL",
+			"Ingredients": [
+				"ACETAMINOPHEN"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling",
+				"Cough"
+			]
+		},
+		{
+			"Name": "TYLENOL W/ CODEINE",
+			"Ingredients": [
+				"ACETAMINOPHEN",
+				" CODEINE PHOSPHATE"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling",
+				"Cough"
+			]
+		},
+		{
+			"Name": "TYLENOL W/ CODEINE NO. 1",
+			"Ingredients": [
+				"ACETAMINOPHEN",
+				" CODEINE PHOSPHATE"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling",
+				"Cough"
+			]
+		},
+		{
+			"Name": "TYLENOL W/ CODEINE NO. 2",
+			"Ingredients": [
+				"ACETAMINOPHEN",
+				" CODEINE PHOSPHATE"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling",
+				"Cough"
+			]
+		},
+		{
+			"Name": "TYLENOL W/ CODEINE NO. 3",
+			"Ingredients": [
+				"ACETAMINOPHEN",
+				" CODEINE PHOSPHATE"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling",
+				"Cough"
+			]
+		},
+		{
+			"Name": "TYLENOL W/ CODEINE NO. 4",
+			"Ingredients": [
+				"ACETAMINOPHEN",
+				" CODEINE PHOSPHATE"
+			],
+			"Symptoms": [
+				"Pain",
+				"Swelling",
+				"Cough"
+			]
+		},
+		{
+			"Name": "VICOPROFEN",
+			"Ingredients": [
+				"HYDROCODONE BITARTRATE",
+				" IBUPROFEN"
+			],
+			"Symptoms": [
+				"Pain"
+			]
+		},
+		{
+			"Name": "ZOFRAN ODT",
+			"Ingredients": [
+				"ONDANSETRON"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		},
+		{
+			"Name": "ZUPLENZ",
+			"Ingredients": [
+				"ONDANSETRON"
+			],
+			"Symptoms": [
+				"Nausea"
+			]
+		}
+	]
+}

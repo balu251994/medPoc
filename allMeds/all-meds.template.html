@@ -1,17 +1,20 @@
-<div class="row">
-    <div class="col-lg-1 col-md-1 col-sm-2 col-xs-2">
-        <a href="#!/home">Back</a>
+<div class="container">
+    <div class="row">
+        <div style="text-align: center" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <span class="title">MediSense</span>
+        </div>
     </div>
-</div>
-<div class="row">
-    <input type="text" placeholder="Search" nd-model="searchText"/>
-</div>
-<div class="row">
-<table class="table-striped">
-<tbody>
-    <tr ng-repeat="disName in diseases">
-
-    </tr>
-</tbody>
-</table>
+    <br></br>
+    <div class="row">
+        <input type="text" placeholder="Search" data-ng-model="searchText" class="form-control" />
+    </div>
+    <div class="row">
+        <table class="table table-striped">
+            <tbody data-ng-repeat="med in medicines| filter:searchText">
+                <tr>
+                    <td>{{med.Name}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 </div>
