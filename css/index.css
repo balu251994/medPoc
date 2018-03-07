@@ -5,19 +5,19 @@ html {
 body {
     height: 100%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background: linear-gradient(0deg, #fff, #fff, #fff, #78b4f0) no-repeat;
+  /*  background: linear-gradient(0deg, #fff, #fff, #fff, #78b4f0) no-repeat;*/
+    background:linear-gradient(180deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
 }
 
 .title {
     text-align: center;
     font-weight: bolder;
-    font-size: xx-large;
-    border-bottom: 3px groove rgb(34, 20, 163); 
+    font-size: x-large;
 }
 
 .footerSeparator {
     margin: 0px;
-    background-color: rgb(34, 20, 163);
+    background-color: white;
     height: 2px;
     border: 0px;
     width: 100%;
@@ -30,3 +30,5 @@ body {
 .mapArea {
     border: 2px red solid;
 }
+
+
