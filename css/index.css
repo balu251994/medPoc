@@ -1,3 +1,19 @@
+@media screen{
+    #medList{
+            position: absolute;
+            top: 12%;
+            bottom: 0;
+            left: 2%;
+            overflow-y: scroll;
+    }
+}
+
+body, html {
+  margin: 0;
+  overflow: hidden;
+  height:100%;
+}
+
 html {
     height: 100%;
 }
@@ -10,7 +26,6 @@ body {
 }
 
 .title {
-    text-align: center;
     font-weight: bolder;
     font-size: x-large;
 }
@@ -31,4 +46,6 @@ body {
     border: 2px red solid;
 }
 
-
+a.list-group-item:focus, a.list-group-item:hover{
+    background-color: #ffae00 !important;
+}

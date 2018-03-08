@@ -4,7 +4,7 @@ angular.
   module('mediSenseApp').
   config(['$locationProvider' ,'$routeProvider',
     function config($locationProvider, $routeProvider) {
-      $locationProvider.hashPrefix('!');
+  //    $locationProvider.hashPrefix('!');
 
       $routeProvider.
         when('/home', {
@@ -18,6 +18,10 @@ angular.
         when('/body', {
             templateUrl: 'body/body.template.html',
             controller: 'body-ctrl'
+        }).
+        when('/medDetail/:id',{
+          templateUrl:'allMeds/med-detail.template.html',
+          controller:'medDetailCont'
         }).
         otherwise('/home');
     }

@@ -10,11 +10,10 @@ var app = angular.module('mediSenseApp', [
     'body'
 ]);
 
-app.controller('mediSenseController',["$scope","dataService",function($scope,ds) {
-    $scope.btnClick = function(){
-        return ds.disArr.query();
-    }
-
-    console.log("done")
+app.controller('mediSenseController',['$scope','$location',function($scope,$location) {
+        
+        $scope.back = function(url){
+            $location.url(url);
+        }
 }]);
 
