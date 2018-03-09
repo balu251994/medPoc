@@ -32,7 +32,16 @@
 
     <script type="text/javascript" src="mediSense.module.js"></script>
     <script type="text/javascript" src="mediSense.config.js"></script>
-   
+    <script type="text/javascript" src="searchSymptom/symptom.component.js"></script>
+    <script type="text/javascript">
+        document.addEventListener('backbutton', function (evt) {
+            if (window.location.href !== "/home") {
+                window.history.back();
+            } else {
+                throw new Error('Exit'); // This will suspend the app
+            }
+        }, false);
+    </script>
 
     <title>Consult Me</title>
 </head>

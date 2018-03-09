@@ -7,7 +7,8 @@ var app = angular.module('mediSenseApp', [
     'core.dataService',
     'home',
     'all-meds',
-    'body'
+    'body',
+    'searchSymptom'
 ]);
 
 app.controller('mediSenseController',['$scope','$location',function($scope,$location) {

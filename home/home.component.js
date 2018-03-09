@@ -10,6 +10,9 @@ angular.module('home', ["cordovaGeolocationModule"])
             }else if (target === "body") {
                 $location.path("/body");
             } else {
+            } else if (target === 'symptom'){
+                $location.path("/symptom");
+            }else {
                 cordovaGeolocationService.getCurrentPosition(function (position) {
                     $scope.currentPosition = position;
                     $scope.longitude = position.coords.longitude

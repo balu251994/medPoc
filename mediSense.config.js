@@ -1,7 +1,7 @@
 'use strict';
 
 angular.
-  module('mediSenseApp').
+  module('mediSenseApp',).
   config(['$locationProvider' ,'$routeProvider',
     function config($locationProvider, $routeProvider) {
   //    $locationProvider.hashPrefix('!');
@@ -22,6 +22,10 @@ angular.
         when('/medDetail/:id',{
           templateUrl:'allMeds/med-detail.template.html',
           controller:'medDetailCont'
+        }).
+        when('/symptom',{
+          templateUrl:'searchSymptom/searchSymptom.template.html',
+          controller: 'symptom-ctrl'
         }).
         otherwise('/home');
     }

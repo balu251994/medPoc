@@ -11,7 +11,6 @@ angular.module('all-meds', ["core.dataService", "ngRoute"])
     .controller('medDetailCont', function ($routeParams, $scope) {
         var id = $routeParams.id;
         $scope.medObj = index[id];
-
         $('.collapseBtnUpper').click(function () {
             var angle = $('.glyphAnimateUpper').css("transform");
             if (angle === "none" || angle === "matrix(1, 0, 0, 1, 0, 0)") {
