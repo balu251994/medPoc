@@ -1,10 +1,10 @@
 @media screen{
     #medList{
             position: absolute;
-            top: 12%;
+            top: 14%;
             bottom: 0;
-            left: 2%;
             overflow-y: scroll;
+            width: 100%
     }
 }
 
@@ -22,12 +22,14 @@ body {
     height: 100%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   /*  background: linear-gradient(0deg, #fff, #fff, #fff, #78b4f0) no-repeat;*/
-    background:linear-gradient(180deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+  /*  background:linear-gradient(180deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);*/
+    background-color: #7d8fb5;
 }
 
 .title {
     font-weight: bolder;
     font-size: x-large;
+    color:white
 }
 
 .footerSeparator {
@@ -48,4 +50,39 @@ body {
 
 a.list-group-item:focus, a.list-group-item:hover{
     background-color: #ffae00 !important;
+}
+
+.customPanel{
+    border: 1px solid;
+    padding: 2%;
+    background-color: gold;
+    border-bottom-left-radius: 33px;
+    border-bottom-right-radius: 33px;
+}
+
+.medName-heading{
+    font-size: large;
+    font-weight: bold;
+    color:white;
+    margin-top:10%
+}
+
+.cstBtn{
+    background-color: gold;
+    color: black;
+    font-size: larger;
+}
+
+.topDiv{
+    padding-top:2%;
+    padding-bottom:2%;
+    outline:2px solid white
+}
+
+.docImg{
+    border-bottom: 30px groove white;
+    border-bottom-left-radius: 190px;
+    border-top:11px groove ivory;
+    border-top-right-radius: 117px;
+    border-top-left-radius: 117px;
 }

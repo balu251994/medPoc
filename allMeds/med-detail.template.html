@@ -1,9 +1,33 @@
 <div class="container">
     <div class="row">
-        <div style="text-align:end;color: white;border-bottom: 2px solid white" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-              <span class="glyphicon glyphicon-chevron-left" style="font-size: x-large;color: white;float: left"><a href="#/home"></a></span>
-             <span style="color:white" class="title">{{medName}}</span>
-            </ul>
+        <div style="text-align: end" class="topDiv col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <span class="glyphicon glyphicon-chevron-left" style="font-size: x-large;color: white;float: left;margin-top:1%" data-ng-click="back('allMeds')"
+                data-ng-controller="mediSenseController"></span>
+                <span class="title">Medicine Detail</span>
+        </div>
+    </div>
+    <div class="row">
+        <div style="text-align: center;margin-top: 10%" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <img src="images/vitamin-pill.svg" width="40%" />
+        </div>
+    </div>
+    <div class="row" style="margin-top:2%">
+        <div class="medName-heading col-lg-12">{{medObj.Name}}</div>
+        <div style="margin-top:2%" class="customPanel">
+            <p style="font-size: large;font-weight: bolder" class="collapseBtnUpper" data-toggle="collapse" data-target="#ingrList">Active Ingredients<span style="float:right;margin-right:5%;font-size:x-large" class="glyphicon glyphicon-chevron-down glyphAnimateUpper"></span></p>
+            <div id="ingrList" class="collapse">
+                <ul>
+                    <li data-ng-repeat="drug in medObj.Ingredients">{{drug}}</li>
+                </ul>
+            </div>
+        </div>
+        <div style="margin-top:2%" class="customPanel">
+            <p style="font-size: large;font-weight: bolder" class="collapseBtnLower" data-toggle="collapse" data-target="#ingrList1">Uses<span style="float:right;margin-right:5%;font-size:x-large" class="glyphicon glyphicon-chevron-down glyphAnimateLower"></span></p>
+            <div id="ingrList1" class="collapse">
+                <ul>
+                    <li data-ng-repeat="drug in medObj.Ingredients">{{drug}}</li>
+                </ul>
+            </div>
         </div>
     </div>
 </div>

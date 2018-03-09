@@ -8,7 +8,7 @@ angular.module('home', ["cordovaGeolocationModule"])
             if (target === "allMeds"){
                 $location.path("/allMeds");
             }else if (target === "body") {
-                window.location.href = "#!/body";
+                $location.path("/body");
             } else {
                 cordovaGeolocationService.getCurrentPosition(function (position) {
                     $scope.currentPosition = position;
