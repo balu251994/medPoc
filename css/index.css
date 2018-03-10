@@ -86,3 +86,11 @@ a.list-group-item:focus, a.list-group-item:hover{
     border-top-right-radius: 117px;
     border-top-left-radius: 117px;
 }
+
+.navActive{
+    color:brown !important;
+}
+
+.navInactive{
+    color:white !important;
+}

@@ -1,0 +1,3452 @@
+{
+    "symptoms": [
+        {
+            "Name": "Abdominal Migraine",
+            "Meds": []
+        },
+        {
+            "Name": "Abscess",
+            "Meds": []
+        },
+        {
+            "Name": "Acetaminophen (Tylenol) Poisoning",
+            "Meds": []
+        },
+        {
+            "Name": "Achalasia",
+            "Meds": []
+        },
+        {
+            "Name": "Achilles Tendon Rupture",
+            "Meds": []
+        },
+        {
+            "Name": "Acl Knee Injury",
+            "Meds": []
+        },
+        {
+            "Name": "Acne",
+            "Meds": []
+        },
+        {
+            "Name": "Acoustic Neuroma",
+            "Meds": []
+        },
+        {
+            "Name": "Acrocyanosis",
+            "Meds": []
+        },
+        {
+            "Name": "Actinic Keratosis",
+            "Meds": []
+        },
+        {
+            "Name": "Acute Angle-Closure Glaucoma",
+            "Meds": []
+        },
+        {
+            "Name": "Acute Kidney Failure",
+            "Meds": []
+        },
+        {
+            "Name": "Acute Respiratory Distress Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Acute Sinusitis",
+            "Meds": []
+        },
+        {
+            "Name": "Acute Stress Reaction",
+            "Meds": []
+        },
+        {
+            "Name": "Adhesions, General And After Surgery",
+            "Meds": []
+        },
+        {
+            "Name": "Adie'S Pupil",
+            "Meds": []
+        },
+        {
+            "Name": "Age-Related Maculopathy",
+            "Meds": []
+        },
+        {
+            "Name": "Agoraphobia",
+            "Meds": []
+        },
+        {
+            "Name": "Airplane Ear",
+            "Meds": []
+        },
+        {
+            "Name": "Alcohol Intoxication",
+            "Meds": []
+        },
+        {
+            "Name": "Alcohol Poisoning",
+            "Meds": []
+        },
+        {
+            "Name": "Alcohol Withdrawal (Delirium Tremens)",
+            "Meds": []
+        },
+        {
+            "Name": "Alcoholism",
+            "Meds": []
+        },
+        {
+            "Name": "Allergic Reaction",
+            "Meds": []
+        },
+        {
+            "Name": "Alopecia",
+            "Meds": []
+        },
+        {
+            "Name": "Als Dementia",
+            "Meds": []
+        },
+        {
+            "Name": "Altitude Sickness",
+            "Meds": []
+        },
+        {
+            "Name": "Alzheimer'S Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Amebiasis",
+            "Meds": []
+        },
+        {
+            "Name": "Amenorrhea, Primary",
+            "Meds": []
+        },
+        {
+            "Name": "Amphetamine Withdrawal",
+            "Meds": []
+        },
+        {
+            "Name": "Amyloidosis",
+            "Meds": []
+        },
+        {
+            "Name": "Amyotrophic Lateral Sclerosis (Lou Gehrig Disease)",
+            "Meds": []
+        },
+        {
+            "Name": "Anal Abscess",
+            "Meds": []
+        },
+        {
+            "Name": "Anal Fissure",
+            "Meds": []
+        },
+        {
+            "Name": "Anaphylactic Shock",
+            "Meds": []
+        },
+        {
+            "Name": "Anemia",
+            "Meds": []
+        },
+        {
+            "Name": "Anemia, Aplastic",
+            "Meds": []
+        },
+        {
+            "Name": "Anemia, Chronic Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Anemia, Hemolytic",
+            "Meds": []
+        },
+        {
+            "Name": "Anemia, Iron Deficiency",
+            "Meds": []
+        },
+        {
+            "Name": "Angioedema",
+            "Meds": []
+        },
+        {
+            "Name": "Angle Recession Glaucoma",
+            "Meds": []
+        },
+        {
+            "Name": "Angular Cheilitis",
+            "Meds": []
+        },
+        {
+            "Name": "Ankylosing Spondylitis",
+            "Meds": []
+        },
+        {
+            "Name": "Anorexia Nervosa",
+            "Meds": []
+        },
+        {
+            "Name": "Anosmia",
+            "Meds": []
+        },
+        {
+            "Name": "Anthrax (Inhaled)",
+            "Meds": []
+        },
+        {
+            "Name": "Anthrax (Skin)",
+            "Meds": []
+        },
+        {
+            "Name": "Antibiotic Use",
+            "Meds": []
+        },
+        {
+            "Name": "Antibiotic-Associated Diarrhea",
+            "Meds": []
+        },
+        {
+            "Name": "Aortic Aneurysm (Abdomen)",
+            "Meds": []
+        },
+        {
+            "Name": "Aortic Aneurysm (Chest)",
+            "Meds": []
+        },
+        {
+            "Name": "Aortic Dissection (Abdomen)",
+            "Meds": []
+        },
+        {
+            "Name": "Aortic Dissection (Chest)",
+            "Meds": []
+        },
+        {
+            "Name": "Aortic Regurgitation",
+            "Meds": []
+        },
+        {
+            "Name": "Aortic Stenosis",
+            "Meds": []
+        },
+        {
+            "Name": "Appendicitis",
+            "Meds": []
+        },
+        {
+            "Name": "Asbestosis",
+            "Meds": []
+        },
+        {
+            "Name": "Ascaris Worms",
+            "Meds": []
+        },
+        {
+            "Name": "Ascites",
+            "Meds": []
+        },
+        {
+            "Name": "Aseptic Meningitis (Adult)",
+            "Meds": []
+        },
+        {
+            "Name": "Aseptic Meningitis (Child)",
+            "Meds": []
+        },
+        {
+            "Name": "Asperger Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Aspirin Poisoning",
+            "Meds": []
+        },
+        {
+            "Name": "Aspirin Use",
+            "Meds": []
+        },
+        {
+            "Name": "Asthma (Child)",
+            "Meds": []
+        },
+        {
+            "Name": "Asthma (Teen And Adult)",
+            "Meds": []
+        },
+        {
+            "Name": "Astigmatism",
+            "Meds": []
+        },
+        {
+            "Name": "Athlete'S Foot",
+            "Meds": []
+        },
+        {
+            "Name": "Atopic Dematitis",
+            "Meds": []
+        },
+        {
+            "Name": "Atrial Fibrillation",
+            "Meds": []
+        },
+        {
+            "Name": "Atrial Flutter",
+            "Meds": []
+        },
+        {
+            "Name": "Attention Deficit Hyperactivity Disorder (Adhd)",
+            "Meds": []
+        },
+        {
+            "Name": "Atypical Mole (Nevus)",
+            "Meds": []
+        },
+        {
+            "Name": "Auricular Hematoma",
+            "Meds": []
+        },
+        {
+            "Name": "Autism",
+            "Meds": []
+        },
+        {
+            "Name": "Avascular Necrosis",
+            "Meds": []
+        },
+        {
+            "Name": "Bacterial Pneumonia",
+            "Meds": []
+        },
+        {
+            "Name": "Baker'S Cyst",
+            "Meds": []
+        },
+        {
+            "Name": "Barbiturate Abuse",
+            "Meds": []
+        },
+        {
+            "Name": "Barrett Esophagus",
+            "Meds": []
+        },
+        {
+            "Name": "Bartholin Cyst",
+            "Meds": []
+        },
+        {
+            "Name": "Basal Cell Skin Cancer",
+            "Meds": []
+        },
+        {
+            "Name": "Bedbugs",
+            "Meds": []
+        },
+        {
+            "Name": "Bee Or Wasp Stings",
+            "Meds": []
+        },
+        {
+            "Name": "Bells Palsy",
+            "Meds": []
+        },
+        {
+            "Name": "Benign Essential Tremor",
+            "Meds": []
+        },
+        {
+            "Name": "Benign Eye Floaters",
+            "Meds": []
+        },
+        {
+            "Name": "Benign Lipoma",
+            "Meds": []
+        },
+        {
+            "Name": "Benign Paroxysmal Positional Vertigo (Bppv)",
+            "Meds": []
+        },
+        {
+            "Name": "Benzodiazepine Abuse",
+            "Meds": []
+        },
+        {
+            "Name": "Berger'S Disease (Idiopathic Hematuria)",
+            "Meds": []
+        },
+        {
+            "Name": "Biceps Rupture",
+            "Meds": []
+        },
+        {
+            "Name": "Bipolar Disorder",
+            "Meds": []
+        },
+        {
+            "Name": "Bird (Avian) Flu",
+            "Meds": []
+        },
+        {
+            "Name": "Black Eye",
+            "Meds": []
+        },
+        {
+            "Name": "Black Widow Spider Bite",
+            "Meds": []
+        },
+        {
+            "Name": "Bladder Cancer",
+            "Meds": []
+        },
+        {
+            "Name": "Bladder Outlet Obstruction",
+            "Meds": []
+        },
+        {
+            "Name": "Bladder Stones",
+            "Meds": []
+        },
+        {
+            "Name": "Bleeding Esophageal Varices",
+            "Meds": []
+        },
+        {
+            "Name": "Blepharitis",
+            "Meds": []
+        },
+        {
+            "Name": "Blocked Tear (Nasolacrimal) Duct",
+            "Meds": []
+        },
+        {
+            "Name": "Blood Clot In The Legs",
+            "Meds": []
+        },
+        {
+            "Name": "Blood Clotting Disorder",
+            "Meds": []
+        },
+        {
+            "Name": "Blue-Ringed Octopus Bite",
+            "Meds": []
+        },
+        {
+            "Name": "Boil",
+            "Meds": []
+        },
+        {
+            "Name": "Bone Spurs",
+            "Meds": []
+        },
+        {
+            "Name": "Botulinum Poisoning",
+            "Meds": []
+        },
+        {
+            "Name": "Botulinum Toxin (Botox) Injection",
+            "Meds": []
+        },
+        {
+            "Name": "Brachial Plexus Nerve Injury",
+            "Meds": []
+        },
+        {
+            "Name": "Brain Aneurysm",
+            "Meds": []
+        },
+        {
+            "Name": "Brain Infection",
+            "Meds": []
+        },
+        {
+            "Name": "Brain Injury",
+            "Meds": []
+        },
+        {
+            "Name": "Brain Tumor",
+            "Meds": []
+        },
+        {
+            "Name": "Breast Cancer (Female)",
+            "Meds": []
+        },
+        {
+            "Name": "Breast Cancer (Male)",
+            "Meds": []
+        },
+        {
+            "Name": "Breast Cyst",
+            "Meds": []
+        },
+        {
+            "Name": "Breast Infection",
+            "Meds": []
+        },
+        {
+            "Name": "Bristleworm Sting",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Boxer'S Fracture) Hand",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Colles Fractured) Wrist",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Ankle",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Breastbone",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Collarbone",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Elbow",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Eye Socket",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Facial Bone",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Finger",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Foot",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Forearm",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Hand",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Hip",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Jaw",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Low Back Vertebra",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Lower Leg",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Neck Vertebra",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Nose",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Rib(S)",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Shoulder Blade",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Tailbone",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Toe",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Upper Arm",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Upper Back Vertebra",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Fractured) Upper Leg",
+            "Meds": []
+        },
+        {
+            "Name": "Broken (Smith Fracture) Wrist",
+            "Meds": []
+        },
+        {
+            "Name": "Bronchial Adenoma",
+            "Meds": []
+        },
+        {
+            "Name": "Bronchiolitis",
+            "Meds": []
+        },
+        {
+            "Name": "Bronchitis",
+            "Meds": []
+        },
+        {
+            "Name": "Brown Recluse Spider Bite",
+            "Meds": []
+        },
+        {
+            "Name": "Bruise Or Contusion",
+            "Meds": []
+        },
+        {
+            "Name": "Bruised Shin",
+            "Meds": []
+        },
+        {
+            "Name": "Budd-Chiari Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Bulimia",
+            "Meds": []
+        },
+        {
+            "Name": "Bunions",
+            "Meds": []
+        },
+        {
+            "Name": "Burn (Heat Or Fire)",
+            "Meds": []
+        },
+        {
+            "Name": "Burning Tongue Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Bursitis (Ankle)",
+            "Meds": []
+        },
+        {
+            "Name": "Bursitis (Anserine)",
+            "Meds": []
+        },
+        {
+            "Name": "Bursitis (Iliopsoas)",
+            "Meds": []
+        },
+        {
+            "Name": "Bursitis (Ischiogluteal)",
+            "Meds": []
+        },
+        {
+            "Name": "Bursitis (Olecranon)",
+            "Meds": []
+        },
+        {
+            "Name": "Bursitis (Pre-Patellar)",
+            "Meds": []
+        },
+        {
+            "Name": "Bursitis (Sub-Deltoid)",
+            "Meds": []
+        },
+        {
+            "Name": "Bursitis (Trochanteric)",
+            "Meds": []
+        },
+        {
+            "Name": "Caffeine Withdrawal",
+            "Meds": []
+        },
+        {
+            "Name": "Campylobacter",
+            "Meds": []
+        },
+        {
+            "Name": "Candidiasis (Yeast Infection)",
+            "Meds": []
+        },
+        {
+            "Name": "Canker Sores",
+            "Meds": []
+        },
+        {
+            "Name": "Carbon Monoxide Poisoning",
+            "Meds": []
+        },
+        {
+            "Name": "Carcinoid Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Carpal Tunnel Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Cat-Scratch Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Cataract Surgery (Lens Implant)",
+            "Meds": []
+        },
+        {
+            "Name": "Cataracts",
+            "Meds": []
+        },
+        {
+            "Name": "Catfish Sting",
+            "Meds": []
+        },
+        {
+            "Name": "Cauda Equina Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Cauliflower Ear",
+            "Meds": []
+        },
+        {
+            "Name": "Cavernous Sinus Thrombosis",
+            "Meds": []
+        },
+        {
+            "Name": "Celiac Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Cellulitis",
+            "Meds": []
+        },
+        {
+            "Name": "Cerebral Palsy",
+            "Meds": []
+        },
+        {
+            "Name": "Cervical (Neck) Herniated Disk",
+            "Meds": []
+        },
+        {
+            "Name": "Cervical (Neck) Spinal Stenosis",
+            "Meds": []
+        },
+        {
+            "Name": "Cervical (Neck) Spondylosis",
+            "Meds": []
+        },
+        {
+            "Name": "Cervical Cancer",
+            "Meds": []
+        },
+        {
+            "Name": "Cervicitis",
+            "Meds": []
+        },
+        {
+            "Name": "Chagas Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Chalazion",
+            "Meds": []
+        },
+        {
+            "Name": "Charcot Marie Tooth Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Chemical Burn (Mouth Or Throat)",
+            "Meds": []
+        },
+        {
+            "Name": "Chemical Burns",
+            "Meds": []
+        },
+        {
+            "Name": "Chemical Eye Burns",
+            "Meds": []
+        },
+        {
+            "Name": "Chemical Pneumonia",
+            "Meds": []
+        },
+        {
+            "Name": "Chickenpox (Varicella)",
+            "Meds": []
+        },
+        {
+            "Name": "Child Abuse",
+            "Meds": []
+        },
+        {
+            "Name": "Chlamydia (Female)",
+            "Meds": []
+        },
+        {
+            "Name": "Chlamydia (Male)",
+            "Meds": []
+        },
+        {
+            "Name": "Cholera",
+            "Meds": []
+        },
+        {
+            "Name": "Cholesterol Emboli",
+            "Meds": []
+        },
+        {
+            "Name": "Chondromalacia Patella",
+            "Meds": []
+        },
+        {
+            "Name": "Chronic Fatigue Syndrome (Cfids)",
+            "Meds": []
+        },
+        {
+            "Name": "Chronic Kidney Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Chronic Obstructive Pulmonary Disease (Copd)",
+            "Meds": []
+        },
+        {
+            "Name": "Chronic Pelvic Pain",
+            "Meds": []
+        },
+        {
+            "Name": "Chronic Sinusitis",
+            "Meds": []
+        },
+        {
+            "Name": "Ciguatera Poisoning",
+            "Meds": []
+        },
+        {
+            "Name": "Cirrhosis (Liver)",
+            "Meds": []
+        },
+        {
+            "Name": "Clonorchis Sinensis",
+            "Meds": []
+        },
+        {
+            "Name": "Clostridium Difficile Colitis",
+            "Meds": []
+        },
+        {
+            "Name": "Club Foot",
+            "Meds": []
+        },
+        {
+            "Name": "Clupeotoxin Poisoning",
+            "Meds": []
+        },
+        {
+            "Name": "Cluster Headache",
+            "Meds": []
+        },
+        {
+            "Name": "Cocaine Abuse",
+            "Meds": []
+        },
+        {
+            "Name": "Cocaine Withdrawal",
+            "Meds": []
+        },
+        {
+            "Name": "Cold Exposure",
+            "Meds": []
+        },
+        {
+            "Name": "Cold Sores",
+            "Meds": []
+        },
+        {
+            "Name": "Colic (Infant)",
+            "Meds": []
+        },
+        {
+            "Name": "Collapsed Lung (Pneumothorax)",
+            "Meds": []
+        },
+        {
+            "Name": "Colon Cancer",
+            "Meds": []
+        },
+        {
+            "Name": "Colon Polyps",
+            "Meds": []
+        },
+        {
+            "Name": "Color Blindness",
+            "Meds": []
+        },
+        {
+            "Name": "Common Cold",
+            "Meds": []
+        },
+        {
+            "Name": "Concussion",
+            "Meds": []
+        },
+        {
+            "Name": "Cone Snail Sting",
+            "Meds": []
+        },
+        {
+            "Name": "Congestive Heart Failure",
+            "Meds": []
+        },
+        {
+            "Name": "Constipation (Adult)",
+            "Meds": []
+        },
+        {
+            "Name": "Constipation (Child)",
+            "Meds": []
+        },
+        {
+            "Name": "Contact Dermatitis",
+            "Meds": []
+        },
+        {
+            "Name": "Contact Lens Use",
+            "Meds": []
+        },
+        {
+            "Name": "Corneal Abrasion (Scratch)",
+            "Meds": []
+        },
+        {
+            "Name": "Corneal Flash Burns",
+            "Meds": []
+        },
+        {
+            "Name": "Corneal Ulcer",
+            "Meds": []
+        },
+        {
+            "Name": "Corns And Calluses",
+            "Meds": []
+        },
+        {
+            "Name": "Coronary Artery Disease (Female)",
+            "Meds": []
+        },
+        {
+            "Name": "Coronary Artery Disease (Male)",
+            "Meds": []
+        },
+        {
+            "Name": "Costochondritis",
+            "Meds": []
+        },
+        {
+            "Name": "Coxsackie Virus Infection",
+            "Meds": []
+        },
+        {
+            "Name": "Crabs",
+            "Meds": []
+        },
+        {
+            "Name": "Cradle Cap",
+            "Meds": []
+        },
+        {
+            "Name": "Crest Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Crohn'S Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Croup",
+            "Meds": []
+        },
+        {
+            "Name": "Cryptococcosis",
+            "Meds": []
+        },
+        {
+            "Name": "Cushing'S Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Cyanide Poisoning",
+            "Meds": []
+        },
+        {
+            "Name": "Cystic Fibrosis",
+            "Meds": []
+        },
+        {
+            "Name": "Dandruff",
+            "Meds": []
+        },
+        {
+            "Name": "Decompression Sickness (Bends)",
+            "Meds": []
+        },
+        {
+            "Name": "Degenerative Disc Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Dehydration (Adult)",
+            "Meds": []
+        },
+        {
+            "Name": "Dehydration (Children)",
+            "Meds": []
+        },
+        {
+            "Name": "Dementia Due To Hiv Infection",
+            "Meds": []
+        },
+        {
+            "Name": "Dementia In Head Injury",
+            "Meds": []
+        },
+        {
+            "Name": "Dementia With Lewy Bodies",
+            "Meds": []
+        },
+        {
+            "Name": "Dengue Fever",
+            "Meds": []
+        },
+        {
+            "Name": "Dental Abscess",
+            "Meds": []
+        },
+        {
+            "Name": "Dental Caries (Cavities)",
+            "Meds": []
+        },
+        {
+            "Name": "Depression (Adult)",
+            "Meds": []
+        },
+        {
+            "Name": "Depression (Child And Adolescent)",
+            "Meds": []
+        },
+        {
+            "Name": "Depression (Postpartum)",
+            "Meds": []
+        },
+        {
+            "Name": "Dermatitis",
+            "Meds": []
+        },
+        {
+            "Name": "Dermatitis Herpetiformis",
+            "Meds": []
+        },
+        {
+            "Name": "Dermatomyositis",
+            "Meds": []
+        },
+        {
+            "Name": "Deshidrotic Eczema",
+            "Meds": []
+        },
+        {
+            "Name": "Diabetes Insipidus",
+            "Meds": []
+        },
+        {
+            "Name": "Diabetes,  Type 1",
+            "Meds": []
+        },
+        {
+            "Name": "Diabetes,  Type 2",
+            "Meds": []
+        },
+        {
+            "Name": "Diabetic Eye Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Diabetic Ketoacidosis",
+            "Meds": []
+        },
+        {
+            "Name": "Diabetic Neuropathy",
+            "Meds": []
+        },
+        {
+            "Name": "Diaper Rash",
+            "Meds": []
+        },
+        {
+            "Name": "Dietary Changes",
+            "Meds": []
+        },
+        {
+            "Name": "Dislocated Elbow",
+            "Meds": []
+        },
+        {
+            "Name": "Dislocated Finger",
+            "Meds": []
+        },
+        {
+            "Name": "Dislocated Knee",
+            "Meds": []
+        },
+        {
+            "Name": "Dislocated Shoulder",
+            "Meds": []
+        },
+        {
+            "Name": "Divers Ear",
+            "Meds": []
+        },
+        {
+            "Name": "Diverticulitis",
+            "Meds": []
+        },
+        {
+            "Name": "Diverticulosis",
+            "Meds": []
+        },
+        {
+            "Name": "Down Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Drinking Fluids Before Bed",
+            "Meds": []
+        },
+        {
+            "Name": "Drug Allergy",
+            "Meds": []
+        },
+        {
+            "Name": "Drug Dependence And Abuse",
+            "Meds": []
+        },
+        {
+            "Name": "Drug Overdose",
+            "Meds": []
+        },
+        {
+            "Name": "Drug Withdrawal",
+            "Meds": []
+        },
+        {
+            "Name": "Dry Eye Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Dry Eyes",
+            "Meds": []
+        },
+        {
+            "Name": "Dry Mouth",
+            "Meds": []
+        },
+        {
+            "Name": "Dry Mouth Syndrome (Xerostomia)",
+            "Meds": []
+        },
+        {
+            "Name": "Dry Skin",
+            "Meds": []
+        },
+        {
+            "Name": "Dupuytren'S Contracture",
+            "Meds": []
+        },
+        {
+            "Name": "Dust Exposure",
+            "Meds": []
+        },
+        {
+            "Name": "Dysfunctional Uterine Bleeding",
+            "Meds": []
+        },
+        {
+            "Name": "Dysmenorrhea (Menstrual Cramps)",
+            "Meds": []
+        },
+        {
+            "Name": "Dyspareunia",
+            "Meds": []
+        },
+        {
+            "Name": "Ear Canal Infection",
+            "Meds": []
+        },
+        {
+            "Name": "Earwax Blockage",
+            "Meds": []
+        },
+        {
+            "Name": "Eating Certain Foods",
+            "Meds": []
+        },
+        {
+            "Name": "Eating Disorder",
+            "Meds": []
+        },
+        {
+            "Name": "Eating Too Quickly",
+            "Meds": []
+        },
+        {
+            "Name": "Ectopic Pregnancy",
+            "Meds": []
+        },
+        {
+            "Name": "Eczema (Child)",
+            "Meds": []
+        },
+        {
+            "Name": "Eczema (Infants)",
+            "Meds": []
+        },
+        {
+            "Name": "Eczema (Teen And Adult)",
+            "Meds": []
+        },
+        {
+            "Name": "Electrocution",
+            "Meds": []
+        },
+        {
+            "Name": "Emphysema",
+            "Meds": []
+        },
+        {
+            "Name": "Encephalitis",
+            "Meds": []
+        },
+        {
+            "Name": "Endocarditis",
+            "Meds": []
+        },
+        {
+            "Name": "Endometrial Cancer",
+            "Meds": []
+        },
+        {
+            "Name": "Endometriosis",
+            "Meds": []
+        },
+        {
+            "Name": "Epidermal (Sebaceous) Cyst",
+            "Meds": []
+        },
+        {
+            "Name": "Epididymitis",
+            "Meds": []
+        },
+        {
+            "Name": "Epiglottitis",
+            "Meds": []
+        },
+        {
+            "Name": "Epilepsy (Absence Or Petit Mal Seizures)",
+            "Meds": []
+        },
+        {
+            "Name": "Epilepsy (Complex Partial Seizures)",
+            "Meds": []
+        },
+        {
+            "Name": "Epilepsy (Simple Partial Seizures)",
+            "Meds": []
+        },
+        {
+            "Name": "Epilepsy (Temporal Lobe)",
+            "Meds": []
+        },
+        {
+            "Name": "Epilepsy (Tonic Clonic Or Grand Mal Seizures)",
+            "Meds": []
+        },
+        {
+            "Name": "Erectile Dysfunction",
+            "Meds": []
+        },
+        {
+            "Name": "Erythema Migrans",
+            "Meds": []
+        },
+        {
+            "Name": "Erythema Multiforme",
+            "Meds": []
+        },
+        {
+            "Name": "Erythema Nodosum",
+            "Meds": []
+        },
+        {
+            "Name": "Esophageal Cancer",
+            "Meds": []
+        },
+        {
+            "Name": "Esophageal Spasm",
+            "Meds": []
+        },
+        {
+            "Name": "Esophageal Stricture",
+            "Meds": []
+        },
+        {
+            "Name": "Esophageal Varices",
+            "Meds": []
+        },
+        {
+            "Name": "Esophagitis",
+            "Meds": []
+        },
+        {
+            "Name": "Estrogen Supplement Use (Female)",
+            "Meds": []
+        },
+        {
+            "Name": "Excessive Caffeine Use",
+            "Meds": []
+        },
+        {
+            "Name": "Excessive Fluid Intake",
+            "Meds": []
+        },
+        {
+            "Name": "Excessive Weight Lifting Or Resistance Activity",
+            "Meds": []
+        },
+        {
+            "Name": "Exercise Or Physical Activity",
+            "Meds": []
+        },
+        {
+            "Name": "Exercise-Induced Asthma",
+            "Meds": []
+        },
+        {
+            "Name": "Exposure To Loud Noise",
+            "Meds": []
+        },
+        {
+            "Name": "Eye Allergies",
+            "Meds": []
+        },
+        {
+            "Name": "Eye Injury",
+            "Meds": []
+        },
+        {
+            "Name": "Eyelash Curler Use",
+            "Meds": []
+        },
+        {
+            "Name": "Eyelid Inflammation (Blepharitis)",
+            "Meds": []
+        },
+        {
+            "Name": "Facial Tic",
+            "Meds": []
+        },
+        {
+            "Name": "Fainting (Vasovagal Syncope)",
+            "Meds": []
+        },
+        {
+            "Name": "Falls Or Injury",
+            "Meds": []
+        },
+        {
+            "Name": "Farsightedness (Presbyopia)",
+            "Meds": []
+        },
+        {
+            "Name": "Fever Seizures In Children",
+            "Meds": []
+        },
+        {
+            "Name": "Fibroadenoma",
+            "Meds": []
+        },
+        {
+            "Name": "Fibrocystic Breasts",
+            "Meds": []
+        },
+        {
+            "Name": "Fibromyalgia",
+            "Meds": []
+        },
+        {
+            "Name": "Fifth Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Finger Infection",
+            "Meds": []
+        },
+        {
+            "Name": "Finger Injury",
+            "Meds": []
+        },
+        {
+            "Name": "Fingernail Injury",
+            "Meds": []
+        },
+        {
+            "Name": "Fish-Handler'S Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Fissured Tongue",
+            "Meds": []
+        },
+        {
+            "Name": "Flatfeet",
+            "Meds": []
+        },
+        {
+            "Name": "Floppy Eyelid Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Folliculitis",
+            "Meds": []
+        },
+        {
+            "Name": "Food Allergy",
+            "Meds": []
+        },
+        {
+            "Name": "Food Poisoning",
+            "Meds": []
+        },
+        {
+            "Name": "Foreign Object In The Ear Canal",
+            "Meds": []
+        },
+        {
+            "Name": "Foreign Object In The Eye",
+            "Meds": []
+        },
+        {
+            "Name": "Foreign Object In The Nose",
+            "Meds": []
+        },
+        {
+            "Name": "Foreign Object In The Rectum",
+            "Meds": []
+        },
+        {
+            "Name": "Foreign Object In The Vagina",
+            "Meds": []
+        },
+        {
+            "Name": "Frostbite",
+            "Meds": []
+        },
+        {
+            "Name": "Frozen Shoulder",
+            "Meds": []
+        },
+        {
+            "Name": "Gallstones",
+            "Meds": []
+        },
+        {
+            "Name": "Ganglion Cyst",
+            "Meds": []
+        },
+        {
+            "Name": "Gas Pains",
+            "Meds": []
+        },
+        {
+            "Name": "Gastritis",
+            "Meds": []
+        },
+        {
+            "Name": "Gastroenteritis",
+            "Meds": []
+        },
+        {
+            "Name": "Gastrointestinal Bleeding",
+            "Meds": []
+        },
+        {
+            "Name": "Gaucher Disease (Early-Onset)",
+            "Meds": []
+        },
+        {
+            "Name": "Gaucher Disease (Late-Onset)",
+            "Meds": []
+        },
+        {
+            "Name": "Generalized Anxiety Disorder",
+            "Meds": []
+        },
+        {
+            "Name": "Genital Herpes (Female)",
+            "Meds": []
+        },
+        {
+            "Name": "Genital Herpes (Male)",
+            "Meds": []
+        },
+        {
+            "Name": "Genital Warts (Female)",
+            "Meds": []
+        },
+        {
+            "Name": "Genital Warts (Male)",
+            "Meds": []
+        },
+        {
+            "Name": "Giant Cell Arteritis (Temporal Arteritis)",
+            "Meds": []
+        },
+        {
+            "Name": "Giardiasis",
+            "Meds": []
+        },
+        {
+            "Name": "Gingivitis",
+            "Meds": []
+        },
+        {
+            "Name": "Glaucoma",
+            "Meds": []
+        },
+        {
+            "Name": "Glomerulonephritis",
+            "Meds": []
+        },
+        {
+            "Name": "Glycogen Storage Disease Type Ii",
+            "Meds": []
+        },
+        {
+            "Name": "Goiter",
+            "Meds": []
+        },
+        {
+            "Name": "Golfer'S Elbow",
+            "Meds": []
+        },
+        {
+            "Name": "Gonorrhea (Female)",
+            "Meds": []
+        },
+        {
+            "Name": "Gonorrhea (Male)",
+            "Meds": []
+        },
+        {
+            "Name": "Gout",
+            "Meds": []
+        },
+        {
+            "Name": "Granuloma Annulare",
+            "Meds": []
+        },
+        {
+            "Name": "Grief Reaction",
+            "Meds": []
+        },
+        {
+            "Name": "Hair Coloring Or Chemical Processing",
+            "Meds": []
+        },
+        {
+            "Name": "Hair Loss, Female",
+            "Meds": []
+        },
+        {
+            "Name": "Hammertoe And Mallet Toe",
+            "Meds": []
+        },
+        {
+            "Name": "Hamstring Injury",
+            "Meds": []
+        },
+        {
+            "Name": "Hand-Foot-And-Mouth Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Hay Fever",
+            "Meds": []
+        },
+        {
+            "Name": "Head Injury",
+            "Meds": []
+        },
+        {
+            "Name": "Head Lice",
+            "Meds": []
+        },
+        {
+            "Name": "Hearing Loss",
+            "Meds": []
+        },
+        {
+            "Name": "Heart Attack (Female)",
+            "Meds": []
+        },
+        {
+            "Name": "Heart Attack (Male)",
+            "Meds": []
+        },
+        {
+            "Name": "Heart Rhythm Disorder",
+            "Meds": []
+        },
+        {
+            "Name": "Heartburn/Gerd",
+            "Meds": []
+        },
+        {
+            "Name": "Heat Cramps",
+            "Meds": []
+        },
+        {
+            "Name": "Heat Exhaustion",
+            "Meds": []
+        },
+        {
+            "Name": "Heat Exposure",
+            "Meds": []
+        },
+        {
+            "Name": "Heat Stroke (Hyperthermia)",
+            "Meds": []
+        },
+        {
+            "Name": "Helicobacter Pylori Infection",
+            "Meds": []
+        },
+        {
+            "Name": "Hematoma",
+            "Meds": []
+        },
+        {
+            "Name": "Hemolytic Uremic Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Hemophilia",
+            "Meds": []
+        },
+        {
+            "Name": "Hemorrhoids",
+            "Meds": []
+        },
+        {
+            "Name": "Henoch-Schonlein Purpura",
+            "Meds": []
+        },
+        {
+            "Name": "Hepatitis A",
+            "Meds": []
+        },
+        {
+            "Name": "Hepatitis B",
+            "Meds": []
+        },
+        {
+            "Name": "Hepatitis C",
+            "Meds": []
+        },
+        {
+            "Name": "Hiatal Hernia",
+            "Meds": []
+        },
+        {
+            "Name": "Hidradenitis Suppurativa",
+            "Meds": []
+        },
+        {
+            "Name": "High Blood Pressure (Hypertension)",
+            "Meds": []
+        },
+        {
+            "Name": "Hip (Acetabular) Labral Tear",
+            "Meds": []
+        },
+        {
+            "Name": "Hirsutism",
+            "Meds": []
+        },
+        {
+            "Name": "Histoplasmosis",
+            "Meds": []
+        },
+        {
+            "Name": "Hives",
+            "Meds": []
+        },
+        {
+            "Name": "Horner'S Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Huntington Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Hydrocele",
+            "Meds": []
+        },
+        {
+            "Name": "Hydronephrosis",
+            "Meds": []
+        },
+        {
+            "Name": "Hyperacusis",
+            "Meds": []
+        },
+        {
+            "Name": "Hyperhidrosis",
+            "Meds": []
+        },
+        {
+            "Name": "Hyperparathyroidism",
+            "Meds": []
+        },
+        {
+            "Name": "Hypersomnia Disorder",
+            "Meds": []
+        },
+        {
+            "Name": "Hyperthyroidism",
+            "Meds": []
+        },
+        {
+            "Name": "Hyperventilation",
+            "Meds": []
+        },
+        {
+            "Name": "Hypocalcemia",
+            "Meds": []
+        },
+        {
+            "Name": "Hypoparathyroidism",
+            "Meds": []
+        },
+        {
+            "Name": "Hypopituitarism",
+            "Meds": []
+        },
+        {
+            "Name": "Hypothermia",
+            "Meds": []
+        },
+        {
+            "Name": "Hypothyroidism (Adult)",
+            "Meds": []
+        },
+        {
+            "Name": "Hypothyroidism (Infant And Child)",
+            "Meds": []
+        },
+        {
+            "Name": "Idiopathic Edema",
+            "Meds": []
+        },
+        {
+            "Name": "Impetigo",
+            "Meds": []
+        },
+        {
+            "Name": "Impingemenent Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Indigestion",
+            "Meds": []
+        },
+        {
+            "Name": "Indoor Allergens",
+            "Meds": []
+        },
+        {
+            "Name": "Inflammatory Bowel Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Influenza (Flu) Adults",
+            "Meds": []
+        },
+        {
+            "Name": "Influenza (Flu) Child",
+            "Meds": []
+        },
+        {
+            "Name": "Ingrown Toenail",
+            "Meds": []
+        },
+        {
+            "Name": "Inguinal Hernia (Female)",
+            "Meds": []
+        },
+        {
+            "Name": "Inguinal Hernia (Male)",
+            "Meds": []
+        },
+        {
+            "Name": "Inhalant Intoxication",
+            "Meds": []
+        },
+        {
+            "Name": "Insect Bites",
+            "Meds": []
+        },
+        {
+            "Name": "Insect Sting",
+            "Meds": []
+        },
+        {
+            "Name": "Insomnia",
+            "Meds": []
+        },
+        {
+            "Name": "Insulin Reaction (Hypoglycemia)",
+            "Meds": []
+        },
+        {
+            "Name": "Interstitial Cystitis",
+            "Meds": []
+        },
+        {
+            "Name": "Interstitial Lung Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Intestinal Ileus",
+            "Meds": []
+        },
+        {
+            "Name": "Intestinal Ischemia",
+            "Meds": []
+        },
+        {
+            "Name": "Intestinal Obstruction",
+            "Meds": []
+        },
+        {
+            "Name": "Intoxication",
+            "Meds": []
+        },
+        {
+            "Name": "Intracranial Hematoma",
+            "Meds": []
+        },
+        {
+            "Name": "Intussusception",
+            "Meds": []
+        },
+        {
+            "Name": "Iritis",
+            "Meds": []
+        },
+        {
+            "Name": "Iron Poisoning",
+            "Meds": []
+        },
+        {
+            "Name": "Irritable Bowel Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Japanese Encephalitis",
+            "Meds": []
+        },
+        {
+            "Name": "Jellyfish Sting",
+            "Meds": []
+        },
+        {
+            "Name": "Jock Itch",
+            "Meds": []
+        },
+        {
+            "Name": "Jumping Frenchmen",
+            "Meds": []
+        },
+        {
+            "Name": "Juvenile Rheumatoid Arthritis",
+            "Meds": []
+        },
+        {
+            "Name": "Kawasaki Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Keratoconus",
+            "Meds": []
+        },
+        {
+            "Name": "Kidney Infection (Pyelonephritis)",
+            "Meds": []
+        },
+        {
+            "Name": "Kidney Stones",
+            "Meds": []
+        },
+        {
+            "Name": "Knee Meniscus Tear",
+            "Meds": []
+        },
+        {
+            "Name": "Knee Strain",
+            "Meds": []
+        },
+        {
+            "Name": "Kuru",
+            "Meds": []
+        },
+        {
+            "Name": "Kyphosis",
+            "Meds": []
+        },
+        {
+            "Name": "Labyrinthitis",
+            "Meds": []
+        },
+        {
+            "Name": "Lack Of Exercise",
+            "Meds": []
+        },
+        {
+            "Name": "Lactation  (Breastfeeding) Mastitis",
+            "Meds": []
+        },
+        {
+            "Name": "Lactose Intolerance",
+            "Meds": []
+        },
+        {
+            "Name": "Laryngitis",
+            "Meds": []
+        },
+        {
+            "Name": "Lazy Eye",
+            "Meds": []
+        },
+        {
+            "Name": "Lead Poisoning",
+            "Meds": []
+        },
+        {
+            "Name": "Leg Cramps",
+            "Meds": []
+        },
+        {
+            "Name": "Legg Calve Perthes",
+            "Meds": []
+        },
+        {
+            "Name": "Legionella (Legionnaires Disease)",
+            "Meds": []
+        },
+        {
+            "Name": "Levator Ani Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Lice",
+            "Meds": []
+        },
+        {
+            "Name": "Local Anesthetic Toxicity",
+            "Meds": []
+        },
+        {
+            "Name": "Low Blood Pressure (Hypotension)",
+            "Meds": []
+        },
+        {
+            "Name": "Low Blood Sugar (Hypoglycemia)",
+            "Meds": []
+        },
+        {
+            "Name": "Low Fiber Diet",
+            "Meds": []
+        },
+        {
+            "Name": "Low Potassium (Hypokalemia)",
+            "Meds": []
+        },
+        {
+            "Name": "Lumbar (Low Back) Herniated Disk",
+            "Meds": []
+        },
+        {
+            "Name": "Lumbar (Low Back) Strain",
+            "Meds": []
+        },
+        {
+            "Name": "Lumbar Spinal Stenosis",
+            "Meds": []
+        },
+        {
+            "Name": "Lung Cancer (Non Small Cell)",
+            "Meds": []
+        },
+        {
+            "Name": "Lung Cancer (Small Cell)",
+            "Meds": []
+        },
+        {
+            "Name": "Lupus (Systemic Lupus Erythematosus)",
+            "Meds": []
+        },
+        {
+            "Name": "Lyme Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Lymphoma",
+            "Meds": []
+        },
+        {
+            "Name": "Lyphogranulomum Venereum",
+            "Meds": []
+        },
+        {
+            "Name": "Macular Degeneration",
+            "Meds": []
+        },
+        {
+            "Name": "Mad Cow Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Malaria",
+            "Meds": []
+        },
+        {
+            "Name": "Male Pattern Baldness",
+            "Meds": []
+        },
+        {
+            "Name": "Mallet Finger",
+            "Meds": []
+        },
+        {
+            "Name": "Mallory-Weiss Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Malnutrition",
+            "Meds": []
+        },
+        {
+            "Name": "Malocclusion (Bite Out Of Alignment)",
+            "Meds": []
+        },
+        {
+            "Name": "Marijuana (Cannibis) Use",
+            "Meds": []
+        },
+        {
+            "Name": "Mastitis (Infectious)",
+            "Meds": []
+        },
+        {
+            "Name": "Measles",
+            "Meds": []
+        },
+        {
+            "Name": "Median Nerve Injury",
+            "Meds": []
+        },
+        {
+            "Name": "Medication Reaction Or Side-Effect",
+            "Meds": []
+        },
+        {
+            "Name": "Melanoma (Skin Cancer)",
+            "Meds": []
+        },
+        {
+            "Name": "Meniere'S Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Menopause",
+            "Meds": []
+        },
+        {
+            "Name": "Menorrhagia",
+            "Meds": []
+        },
+        {
+            "Name": "Mesenteric Lymphadenitis",
+            "Meds": []
+        },
+        {
+            "Name": "Metabolic Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Metatarsalgia",
+            "Meds": []
+        },
+        {
+            "Name": "Methamphetamine Use",
+            "Meds": []
+        },
+        {
+            "Name": "Methanol Poisoning",
+            "Meds": []
+        },
+        {
+            "Name": "Middle Ear Infection",
+            "Meds": []
+        },
+        {
+            "Name": "Migraine Headache (Adult)",
+            "Meds": []
+        },
+        {
+            "Name": "Migraine Headache (Children)",
+            "Meds": []
+        },
+        {
+            "Name": "Miscarriage",
+            "Meds": []
+        },
+        {
+            "Name": "Mitral Valve Prolapse",
+            "Meds": []
+        },
+        {
+            "Name": "Molluscum Contagiosum",
+            "Meds": []
+        },
+        {
+            "Name": "Mononucleosis",
+            "Meds": []
+        },
+        {
+            "Name": "Morning Sickness",
+            "Meds": []
+        },
+        {
+            "Name": "Morton'S Neuroma",
+            "Meds": []
+        },
+        {
+            "Name": "Motion Sickness",
+            "Meds": []
+        },
+        {
+            "Name": "Mouth (Oral) Cancer",
+            "Meds": []
+        },
+        {
+            "Name": "Mucopolysaccharidosis I (Mps1)",
+            "Meds": []
+        },
+        {
+            "Name": "Mucopolysaccharidosis Type Ii (Mps2)",
+            "Meds": []
+        },
+        {
+            "Name": "Multiple Sclerosis",
+            "Meds": []
+        },
+        {
+            "Name": "Mumps",
+            "Meds": []
+        },
+        {
+            "Name": "Muscle Strain",
+            "Meds": []
+        },
+        {
+            "Name": "Myasthenia Gravis",
+            "Meds": []
+        },
+        {
+            "Name": "Myotonia Congenita",
+            "Meds": []
+        },
+        {
+            "Name": "Myotonic Dystrophy",
+            "Meds": []
+        },
+        {
+            "Name": "Myxedema Coma",
+            "Meds": []
+        },
+        {
+            "Name": "Narcolepsy",
+            "Meds": []
+        },
+        {
+            "Name": "Narcotic Abuse",
+            "Meds": []
+        },
+        {
+            "Name": "Nasal Congestion",
+            "Meds": []
+        },
+        {
+            "Name": "Nasal Dryness",
+            "Meds": []
+        },
+        {
+            "Name": "Nasal Irritation",
+            "Meds": []
+        },
+        {
+            "Name": "Nasal Polyps",
+            "Meds": []
+        },
+        {
+            "Name": "Nearsightedness",
+            "Meds": []
+        },
+        {
+            "Name": "Neck Strain",
+            "Meds": []
+        },
+        {
+            "Name": "Newborn Jaundice",
+            "Meds": []
+        },
+        {
+            "Name": "Nicotine Withdrawal/Cessation Of Smoking",
+            "Meds": []
+        },
+        {
+            "Name": "Night Eating Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Night Terrors",
+            "Meds": []
+        },
+        {
+            "Name": "Nightmares",
+            "Meds": []
+        },
+        {
+            "Name": "Nipple Irritation",
+            "Meds": []
+        },
+        {
+            "Name": "Nipple Stimulation",
+            "Meds": []
+        },
+        {
+            "Name": "Nitrogen Narcosis",
+            "Meds": []
+        },
+        {
+            "Name": "Nonallergic Rhinitis",
+            "Meds": []
+        },
+        {
+            "Name": "Normal Age-Related Changes",
+            "Meds": []
+        },
+        {
+            "Name": "Normal Age-Related Forgetfulness",
+            "Meds": []
+        },
+        {
+            "Name": "Normal Variation",
+            "Meds": []
+        },
+        {
+            "Name": "Normal-Tension Glaucoma",
+            "Meds": []
+        },
+        {
+            "Name": "Noroviruses (Norwalk-Like Viruses)",
+            "Meds": []
+        },
+        {
+            "Name": "Not Chewing Food Well",
+            "Meds": []
+        },
+        {
+            "Name": "Not Enough Sleep",
+            "Meds": []
+        },
+        {
+            "Name": "Nursemaid Elbow",
+            "Meds": []
+        },
+        {
+            "Name": "Obesity",
+            "Meds": []
+        },
+        {
+            "Name": "Obsessive Compulsive Personality Disorder",
+            "Meds": []
+        },
+        {
+            "Name": "Ocular Migraine",
+            "Meds": []
+        },
+        {
+            "Name": "Optic Neuritis",
+            "Meds": []
+        },
+        {
+            "Name": "Oral (Mouth) Herpes",
+            "Meds": []
+        },
+        {
+            "Name": "Orchitis",
+            "Meds": []
+        },
+        {
+            "Name": "Osgood-Schlatter Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Osteoarthritis",
+            "Meds": []
+        },
+        {
+            "Name": "Osteochondritis Dessicans",
+            "Meds": []
+        },
+        {
+            "Name": "Osteogenesis Imperfecta",
+            "Meds": []
+        },
+        {
+            "Name": "Osteomyelitis (Bone Infection)",
+            "Meds": []
+        },
+        {
+            "Name": "Osteoporosis",
+            "Meds": []
+        },
+        {
+            "Name": "Ovarian Cancer",
+            "Meds": []
+        },
+        {
+            "Name": "Ovarian Cysts",
+            "Meds": []
+        },
+        {
+            "Name": "Overactive Bladder Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Overeating",
+            "Meds": []
+        },
+        {
+            "Name": "Ovulation Pain (Mittelschmerz)",
+            "Meds": []
+        },
+        {
+            "Name": "Pancreatic Cancer",
+            "Meds": []
+        },
+        {
+            "Name": "Pancreatitis",
+            "Meds": []
+        },
+        {
+            "Name": "Panic Attack",
+            "Meds": []
+        },
+        {
+            "Name": "Paragonimiasis",
+            "Meds": []
+        },
+        {
+            "Name": "Parkinson Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Paronychia",
+            "Meds": []
+        },
+        {
+            "Name": "Paroxysmal Nocturnal Hemoglobinuria (Pnh)",
+            "Meds": []
+        },
+        {
+            "Name": "Patellofemoral Pain Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Pectus Excavatum",
+            "Meds": []
+        },
+        {
+            "Name": "Pellagra",
+            "Meds": []
+        },
+        {
+            "Name": "Pelvic Inflammatory Disease (Pid)",
+            "Meds": []
+        },
+        {
+            "Name": "Pemphigus",
+            "Meds": []
+        },
+        {
+            "Name": "Peptic Ulcer",
+            "Meds": []
+        },
+        {
+            "Name": "Pericarditis",
+            "Meds": []
+        },
+        {
+            "Name": "Perichondritis",
+            "Meds": []
+        },
+        {
+            "Name": "Perimenopause",
+            "Meds": []
+        },
+        {
+            "Name": "Periodic Limb Movement Disorder",
+            "Meds": []
+        },
+        {
+            "Name": "Periodontal (Gum) Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Peripheral Neuropathy",
+            "Meds": []
+        },
+        {
+            "Name": "Peripheral Vascular Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Peritonsillar Abscess",
+            "Meds": []
+        },
+        {
+            "Name": "Peyronie'S Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Phencyclidine Use",
+            "Meds": []
+        },
+        {
+            "Name": "Phlebitis",
+            "Meds": []
+        },
+        {
+            "Name": "Physical Abuse",
+            "Meds": []
+        },
+        {
+            "Name": "Pica",
+            "Meds": []
+        },
+        {
+            "Name": "Pick Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Pilonidal Cyst",
+            "Meds": []
+        },
+        {
+            "Name": "Pinched Nerve Or Stinger",
+            "Meds": []
+        },
+        {
+            "Name": "Pink Eye (Conjunctivitis)",
+            "Meds": []
+        },
+        {
+            "Name": "Pinworms",
+            "Meds": []
+        },
+        {
+            "Name": "Pityriasis Rosea",
+            "Meds": []
+        },
+        {
+            "Name": "Plague",
+            "Meds": []
+        },
+        {
+            "Name": "Plantar Fasciitis",
+            "Meds": []
+        },
+        {
+            "Name": "Plantar Warts",
+            "Meds": []
+        },
+        {
+            "Name": "Pleural Effusion",
+            "Meds": []
+        },
+        {
+            "Name": "Pleurisy",
+            "Meds": []
+        },
+        {
+            "Name": "Pneumonia",
+            "Meds": []
+        },
+        {
+            "Name": "Pneumonitis",
+            "Meds": []
+        },
+        {
+            "Name": "Pneumothorax (Spontaneous)",
+            "Meds": []
+        },
+        {
+            "Name": "Pneumothorax (Traumatic)",
+            "Meds": []
+        },
+        {
+            "Name": "Poison Ivy, Oak, And Sumac",
+            "Meds": []
+        },
+        {
+            "Name": "Poisoning",
+            "Meds": []
+        },
+        {
+            "Name": "Polycystic Kidney Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Polycystic Ovary Syndrome (Pcos)",
+            "Meds": []
+        },
+        {
+            "Name": "Polymyalgia Rheumatica",
+            "Meds": []
+        },
+        {
+            "Name": "Pompe Disease (Early-Onset)",
+            "Meds": []
+        },
+        {
+            "Name": "Pompe Disease (Late-Onset)",
+            "Meds": []
+        },
+        {
+            "Name": "Poorly Fitting Shoes",
+            "Meds": []
+        },
+        {
+            "Name": "Porphyria",
+            "Meds": []
+        },
+        {
+            "Name": "Post-Traumatic Stress Disorder (Ptsd)",
+            "Meds": []
+        },
+        {
+            "Name": "Postconcussive Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Posterior Cruciate Ligament (Pcl) Injury",
+            "Meds": []
+        },
+        {
+            "Name": "Prader-Willi Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Pre-Leukemia (Myelodysplastic Syndrome)",
+            "Meds": []
+        },
+        {
+            "Name": "Precocious Puberty",
+            "Meds": []
+        },
+        {
+            "Name": "Preeclampsia",
+            "Meds": []
+        },
+        {
+            "Name": "Pregnancy",
+            "Meds": []
+        },
+        {
+            "Name": "Pregnancy, Round Ligament Pain",
+            "Meds": []
+        },
+        {
+            "Name": "Premature Labor",
+            "Meds": []
+        },
+        {
+            "Name": "Premature Ventricular Contractions (Pvcs)",
+            "Meds": []
+        },
+        {
+            "Name": "Premenstrual Dysphoric Disorder (Pmdd)",
+            "Meds": []
+        },
+        {
+            "Name": "Premenstrual Syndrome (Pms)",
+            "Meds": []
+        },
+        {
+            "Name": "Priapism",
+            "Meds": []
+        },
+        {
+            "Name": "Primary Biliary Cirrhosis",
+            "Meds": []
+        },
+        {
+            "Name": "Primary Congenital Glaucoma",
+            "Meds": []
+        },
+        {
+            "Name": "Proctalgia Fugax",
+            "Meds": []
+        },
+        {
+            "Name": "Proctitis",
+            "Meds": []
+        },
+        {
+            "Name": "Progressive Supranuclear Palsy",
+            "Meds": []
+        },
+        {
+            "Name": "Prolapsed Bladder",
+            "Meds": []
+        },
+        {
+            "Name": "Prolapsed Uterus",
+            "Meds": []
+        },
+        {
+            "Name": "Prostate Cancer",
+            "Meds": []
+        },
+        {
+            "Name": "Prostate Gland Enlargement",
+            "Meds": []
+        },
+        {
+            "Name": "Prostatitis",
+            "Meds": []
+        },
+        {
+            "Name": "Pseudogout",
+            "Meds": []
+        },
+        {
+            "Name": "Pseudohypoparathyroidism",
+            "Meds": []
+        },
+        {
+            "Name": "Psoriasis",
+            "Meds": []
+        },
+        {
+            "Name": "Psoriatic Arthritis",
+            "Meds": []
+        },
+        {
+            "Name": "Puberty",
+            "Meds": []
+        },
+        {
+            "Name": "Pufferfish Poisoning",
+            "Meds": []
+        },
+        {
+            "Name": "Pulmonary Edema",
+            "Meds": []
+        },
+        {
+            "Name": "Pulmonary Embolism",
+            "Meds": []
+        },
+        {
+            "Name": "Pulmonary Fibrosis",
+            "Meds": []
+        },
+        {
+            "Name": "Pulmonary Hypertension",
+            "Meds": []
+        },
+        {
+            "Name": "Pustular Psoriasis",
+            "Meds": []
+        },
+        {
+            "Name": "Pyloric Stenosis",
+            "Meds": []
+        },
+        {
+            "Name": "Rabies",
+            "Meds": []
+        },
+        {
+            "Name": "Radial Keratotomy (Lasik) Surgery",
+            "Meds": []
+        },
+        {
+            "Name": "Radiation Sickness",
+            "Meds": []
+        },
+        {
+            "Name": "Radon Exposure",
+            "Meds": []
+        },
+        {
+            "Name": "Raynaud Phenomenon",
+            "Meds": []
+        },
+        {
+            "Name": "Razor Bumps",
+            "Meds": []
+        },
+        {
+            "Name": "Rectal Cancer",
+            "Meds": []
+        },
+        {
+            "Name": "Rectal Prolapse",
+            "Meds": []
+        },
+        {
+            "Name": "Rem Sleep Behavior Disorder",
+            "Meds": []
+        },
+        {
+            "Name": "Renal Cell (Kidney) Cancer",
+            "Meds": []
+        },
+        {
+            "Name": "Repetitive Motion Injuries",
+            "Meds": []
+        },
+        {
+            "Name": "Respiratory Syncytial Virus",
+            "Meds": []
+        },
+        {
+            "Name": "Restless Legs Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Retinal Detachment",
+            "Meds": []
+        },
+        {
+            "Name": "Reye'S Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Rheumatic Fever",
+            "Meds": []
+        },
+        {
+            "Name": "Rheumatoid Arthritis",
+            "Meds": []
+        },
+        {
+            "Name": "Rhinophyma",
+            "Meds": []
+        },
+        {
+            "Name": "Ricin Poisoning",
+            "Meds": []
+        },
+        {
+            "Name": "Ringworm (Body)",
+            "Meds": []
+        },
+        {
+            "Name": "Ringworm (Scalp Or Face)",
+            "Meds": []
+        },
+        {
+            "Name": "Rosacea",
+            "Meds": []
+        },
+        {
+            "Name": "Roseola",
+            "Meds": []
+        },
+        {
+            "Name": "Rotator Cuff Injury",
+            "Meds": []
+        },
+        {
+            "Name": "Rotavirus",
+            "Meds": []
+        },
+        {
+            "Name": "Rubbing Eyelids",
+            "Meds": []
+        },
+        {
+            "Name": "Ruptured Eardrum",
+            "Meds": []
+        },
+        {
+            "Name": "Salivary Duct Obstruction (Sialolithiasis)",
+            "Meds": []
+        },
+        {
+            "Name": "Salmonella",
+            "Meds": []
+        },
+        {
+            "Name": "Sarcoidosis",
+            "Meds": []
+        },
+        {
+            "Name": "Saturday Night Palsy",
+            "Meds": []
+        },
+        {
+            "Name": "Scabies",
+            "Meds": []
+        },
+        {
+            "Name": "Scarlet Fever",
+            "Meds": []
+        },
+        {
+            "Name": "Schistosomiasis",
+            "Meds": []
+        },
+        {
+            "Name": "Schizoaffective Disorder",
+            "Meds": []
+        },
+        {
+            "Name": "Schizophrenia",
+            "Meds": []
+        },
+        {
+            "Name": "Sciatica",
+            "Meds": []
+        },
+        {
+            "Name": "Scleral Icterus With One Glass Eye",
+            "Meds": []
+        },
+        {
+            "Name": "Scleroderma",
+            "Meds": []
+        },
+        {
+            "Name": "Scoliosis",
+            "Meds": []
+        },
+        {
+            "Name": "Scurvy (Vitamin C Deficiency)",
+            "Meds": []
+        },
+        {
+            "Name": "Seasonal Depression (Sad)",
+            "Meds": []
+        },
+        {
+            "Name": "Seborrheic Dermatitis",
+            "Meds": []
+        },
+        {
+            "Name": "Seborrheic Keratosis",
+            "Meds": []
+        },
+        {
+            "Name": "Separated Shoulder",
+            "Meds": []
+        },
+        {
+            "Name": "Septic Arthritis",
+            "Meds": []
+        },
+        {
+            "Name": "Severe Acute Respiratory Syndrome (Sars)",
+            "Meds": []
+        },
+        {
+            "Name": "Severe Allergic Reaction (Anaphylactic Shock)",
+            "Meds": []
+        },
+        {
+            "Name": "Shigellosis",
+            "Meds": []
+        },
+        {
+            "Name": "Shin Splints",
+            "Meds": []
+        },
+        {
+            "Name": "Shingles (Herpes Zoster)",
+            "Meds": []
+        },
+        {
+            "Name": "Shock",
+            "Meds": []
+        },
+        {
+            "Name": "Short-Acting Sedative Use",
+            "Meds": []
+        },
+        {
+            "Name": "Sickle Cell Crisis",
+            "Meds": []
+        },
+        {
+            "Name": "Sickle Cell Disease",
+            "Meds": []
+        },
+        {
+            "Name": "Sjogren'S Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Skier'S Thumb",
+            "Meds": []
+        },
+        {
+            "Name": "Skin Tag (Acrochordon)",
+            "Meds": []
+        },
+        {
+            "Name": "Sleep Apnea",
+            "Meds": []
+        },
+        {
+            "Name": "Sleep Disorder (Elderly)",
+            "Meds": []
+        },
+        {
+            "Name": "Slipped Capital Femoral Epiphysis",
+            "Meds": []
+        },
+        {
+            "Name": "Small Intestine Cancer",
+            "Meds": []
+        },
+        {
+            "Name": "Smoke Exposure",
+            "Meds": []
+        },
+        {
+            "Name": "Social Anxiety Disorder",
+            "Meds": []
+        },
+        {
+            "Name": "Spermatocele",
+            "Meds": []
+        },
+        {
+            "Name": "Spina Bifida",
+            "Meds": []
+        },
+        {
+            "Name": "Spinal Meningitis",
+            "Meds": []
+        },
+        {
+            "Name": "Spinal Tumor",
+            "Meds": []
+        },
+        {
+            "Name": "Sporotrichosis",
+            "Meds": []
+        },
+        {
+            "Name": "Sprained Ankle",
+            "Meds": []
+        },
+        {
+            "Name": "Stomach Cancer",
+            "Meds": []
+        },
+        {
+            "Name": "Stool Holding (Encopresis)",
+            "Meds": []
+        },
+        {
+            "Name": "Strained Voice (Vocal Cords)",
+            "Meds": []
+        },
+        {
+            "Name": "Strep Throat",
+            "Meds": []
+        },
+        {
+            "Name": "Stress Fractures",
+            "Meds": []
+        },
+        {
+            "Name": "Stroke",
+            "Meds": []
+        },
+        {
+            "Name": "Stuck Eyelash",
+            "Meds": []
+        },
+        {
+            "Name": "Sty (Hordeolum)",
+            "Meds": []
+        },
+        {
+            "Name": "Subconjunctival Hemorrhage (Bleeding In Eye)",
+            "Meds": []
+        },
+        {
+            "Name": "Substance-Induced Mood Disorder",
+            "Meds": []
+        },
+        {
+            "Name": "Subungual Hematoma (Bleeding Under Nail)",
+            "Meds": []
+        },
+        {
+            "Name": "Sunburn",
+            "Meds": []
+        },
+        {
+            "Name": "Supraventricular Tachycardia",
+            "Meds": []
+        },
+        {
+            "Name": "Swallowed Object",
+            "Meds": []
+        },
+        {
+            "Name": "Swimmer'S Ear",
+            "Meds": []
+        },
+        {
+            "Name": "Swollen Glands",
+            "Meds": []
+        },
+        {
+            "Name": "Synaesthesia",
+            "Meds": []
+        },
+        {
+            "Name": "Syphilis (Female)",
+            "Meds": []
+        },
+        {
+            "Name": "Syphilis (Male)",
+            "Meds": []
+        },
+        {
+            "Name": "Taking Iron Supplements",
+            "Meds": []
+        },
+        {
+            "Name": "Taking Pepto-Bismol (Bismuth)",
+            "Meds": []
+        },
+        {
+            "Name": "Taking Pyridium",
+            "Meds": []
+        },
+        {
+            "Name": "Taking Vitamin Supplements",
+            "Meds": []
+        },
+        {
+            "Name": "Teething Pain",
+            "Meds": []
+        },
+        {
+            "Name": "Telogen Effluvium",
+            "Meds": []
+        },
+        {
+            "Name": "Temporomandibular Joint Syndrome (Tmj)",
+            "Meds": []
+        },
+        {
+            "Name": "Tendinitis",
+            "Meds": []
+        },
+        {
+            "Name": "Tennis Elbow",
+            "Meds": []
+        },
+        {
+            "Name": "Tension Headache",
+            "Meds": []
+        },
+        {
+            "Name": "Testicular Cancer",
+            "Meds": []
+        },
+        {
+            "Name": "Testicular Torsion",
+            "Meds": []
+        },
+        {
+            "Name": "Testosterone Deficiency",
+            "Meds": []
+        },
+        {
+            "Name": "Testosterone Or Other Hormone Use (Male)",
+            "Meds": []
+        },
+        {
+            "Name": "Testosterone Supplement Use (Female)",
+            "Meds": []
+        },
+        {
+            "Name": "Tetanus",
+            "Meds": []
+        },
+        {
+            "Name": "Tetany",
+            "Meds": []
+        },
+        {
+            "Name": "Tetralogy Of Fallot",
+            "Meds": []
+        },
+        {
+            "Name": "Thalassemia",
+            "Meds": []
+        },
+        {
+            "Name": "Thermal Burn Of Mouth Or Tongue",
+            "Meds": []
+        },
+        {
+            "Name": "Thoracic (Upper Back) Strain",
+            "Meds": []
+        },
+        {
+            "Name": "Thoracic Herniated Disk",
+            "Meds": []
+        },
+        {
+            "Name": "Thoracic Spinal Stenosis",
+            "Meds": []
+        },
+        {
+            "Name": "Throat Cancer",
+            "Meds": []
+        },
+        {
+            "Name": "Thrombocytopenia",
+            "Meds": []
+        },
+        {
+            "Name": "Thrombophlebitis",
+            "Meds": []
+        },
+        {
+            "Name": "Thrush (Adults)",
+            "Meds": []
+        },
+        {
+            "Name": "Thrush (Infants And Children)",
+            "Meds": []
+        },
+        {
+            "Name": "Thyroid Cancer",
+            "Meds": []
+        },
+        {
+            "Name": "Thyroid Nodules",
+            "Meds": []
+        },
+        {
+            "Name": "Thyroid Storm",
+            "Meds": []
+        },
+        {
+            "Name": "Tick Bite",
+            "Meds": []
+        },
+        {
+            "Name": "Tinnitus",
+            "Meds": []
+        },
+        {
+            "Name": "Tonsillitis",
+            "Meds": []
+        },
+        {
+            "Name": "Toothache",
+            "Meds": []
+        },
+        {
+            "Name": "Toothbrush Irritation",
+            "Meds": []
+        },
+        {
+            "Name": "Torticollis",
+            "Meds": []
+        },
+        {
+            "Name": "Tourette Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Toxic Shock Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Tracheo-Esophageal Fistula",
+            "Meds": []
+        },
+        {
+            "Name": "Transient Global Amnesia",
+            "Meds": []
+        },
+        {
+            "Name": "Transient Ischemic Attack (Mini-Stroke)",
+            "Meds": []
+        },
+        {
+            "Name": "Trauma Or Injury",
+            "Meds": []
+        },
+        {
+            "Name": "Traveler'S Diarrhea",
+            "Meds": []
+        },
+        {
+            "Name": "Trichomoniasis (Female)",
+            "Meds": []
+        },
+        {
+            "Name": "Trichomoniasis (Male)",
+            "Meds": []
+        },
+        {
+            "Name": "Trichotillomania",
+            "Meds": []
+        },
+        {
+            "Name": "Trigeminal Neuralgia (Facial Nerve Pain)",
+            "Meds": []
+        },
+        {
+            "Name": "Trismus",
+            "Meds": []
+        },
+        {
+            "Name": "Trypanosomiasis",
+            "Meds": []
+        },
+        {
+            "Name": "Tuberculosis",
+            "Meds": []
+        },
+        {
+            "Name": "Turf Toe",
+            "Meds": []
+        },
+        {
+            "Name": "Typhoid Fever",
+            "Meds": []
+        },
+        {
+            "Name": "Ulcerative Colitis",
+            "Meds": []
+        },
+        {
+            "Name": "Ulnar Nerve Injury",
+            "Meds": []
+        },
+        {
+            "Name": "Umbilical Hernia",
+            "Meds": []
+        },
+        {
+            "Name": "Underweight",
+            "Meds": []
+        },
+        {
+            "Name": "Upper Airway Obstruction",
+            "Meds": []
+        },
+        {
+            "Name": "Urethritis (Female)",
+            "Meds": []
+        },
+        {
+            "Name": "Urethritis (Male)",
+            "Meds": []
+        },
+        {
+            "Name": "Urinary Incontinence (Overflow) Female",
+            "Meds": []
+        },
+        {
+            "Name": "Urinary Incontinence (Overflow) Male",
+            "Meds": []
+        },
+        {
+            "Name": "Urinary Incontinence (Stress) Female",
+            "Meds": []
+        },
+        {
+            "Name": "Urinary Incontinence (Stress) Male",
+            "Meds": []
+        },
+        {
+            "Name": "Urinary Tract Infection (Uti)",
+            "Meds": []
+        },
+        {
+            "Name": "Uterine Cancer",
+            "Meds": []
+        },
+        {
+            "Name": "Uterine Fibroids",
+            "Meds": []
+        },
+        {
+            "Name": "Vaginal Dryness",
+            "Meds": []
+        },
+        {
+            "Name": "Vaginal Prolapse",
+            "Meds": []
+        },
+        {
+            "Name": "Vaginal Yeast Infection",
+            "Meds": []
+        },
+        {
+            "Name": "Vaginitis",
+            "Meds": []
+        },
+        {
+            "Name": "Valley Fever (Coccidioidomycosis)",
+            "Meds": []
+        },
+        {
+            "Name": "Varicella Pneumonia",
+            "Meds": []
+        },
+        {
+            "Name": "Varicocele",
+            "Meds": []
+        },
+        {
+            "Name": "Varicose Veins",
+            "Meds": []
+        },
+        {
+            "Name": "Venous Insufficiency",
+            "Meds": []
+        },
+        {
+            "Name": "Ventricular Septal Defect",
+            "Meds": []
+        },
+        {
+            "Name": "Vertebral Compression Fracture (Lumbar)",
+            "Meds": []
+        },
+        {
+            "Name": "Vertebral Compression Fracture (Thoracic)",
+            "Meds": []
+        },
+        {
+            "Name": "Vesicoureteral Reflux",
+            "Meds": []
+        },
+        {
+            "Name": "Viral Gastroenteritis",
+            "Meds": []
+        },
+        {
+            "Name": "Viral Pharyngitis",
+            "Meds": []
+        },
+        {
+            "Name": "Viral Pneumonia",
+            "Meds": []
+        },
+        {
+            "Name": "Viral Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "Vitamin B12 Deficiency",
+            "Meds": []
+        },
+        {
+            "Name": "Vocal Cord Polyp",
+            "Meds": []
+        },
+        {
+            "Name": "Vulvodynia",
+            "Meds": []
+        },
+        {
+            "Name": "Warts (Common)",
+            "Meds": []
+        },
+        {
+            "Name": "Water Retention",
+            "Meds": []
+        },
+        {
+            "Name": "Weeverfish Sting",
+            "Meds": []
+        },
+        {
+            "Name": "Wernicke Syndrome",
+            "Meds": []
+        },
+        {
+            "Name": "West Nile Virus",
+            "Meds": []
+        },
+        {
+            "Name": "Whiplash",
+            "Meds": []
+        },
+        {
+            "Name": "Whooping Cough",
+            "Meds": []
+        },
+        {
+            "Name": "Wind Exposure",
+            "Meds": []
+        }
+    ]
+}

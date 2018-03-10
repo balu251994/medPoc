@@ -1,9 +1,23 @@
 <div class="container">
-     <div class="row">
+    <div class="row">
         <div style="text-align: end" class="topDiv col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <span class="glyphicon glyphicon-chevron-left" style="font-size: x-large;color: white;float: left;margin-top:1%" data-ng-click="back('home')"
                 data-ng-controller="mediSenseController"></span>
                 <span class="title">Search Symptom</span>
+        </div>
+    </div>
+    <div class="row" style="margin-top:2%">
+        <ul class="nav nav-tabs">
+            <li id="genSym" role="presentation" class="active" style="width:50%"><a id="genSymA" class="navActive" data-ng-click="symTypeClick('#genSym','#genSymA','#a2zSym','#a2zSymA','genSym')">General Symptoms</a></li>
+            <li id="a2zSym" role="presentation" style="width:50%"><a id="a2zSymA" class="navInactive" data-ng-click="symTypeClick('#a2zSym','#a2zSymA','#genSym','#genSymA','a2zSym')">A - Z Symptom</a></li>
+        </ul>
+    </div>
+    <div class="row">
+        <input type="text" placeholder="Search" data-ng-model="searchText" class="form-control" />
+    </div>
+    <div class="row" id="medList">
+        <div class="list-group">
+            <a data-ng-repeat="symp in Symptoms" class="list-group-item" href="#/symptomDetail/{{$index}}/{{type}}">{{symp.Name}}<span style="float:right" class="glyphicon glyphicon-chevron-right"></span></a>
         </div>
     </div>
 </div>

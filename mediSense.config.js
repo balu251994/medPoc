@@ -27,6 +27,10 @@ angular.
           templateUrl:'searchSymptom/searchSymptom.template.html',
           controller: 'symptom-ctrl'
         }).
+        when('/symptomDetail/:id/:type',{
+          templateUrl:'searchSymptom/symptom-detail.template.html',
+          controller: 'symptom-ctrl'
+        }).
         otherwise('/home');
     }
   ])
