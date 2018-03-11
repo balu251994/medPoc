@@ -1,33 +1,41 @@
-<div class="container">
-    <div class="row">
-        <div style="text-align: end" class="topDiv col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <span class="glyphicon glyphicon-chevron-left" style="font-size: x-large;color: white;float: left;margin-top:1%" data-ng-click="back('allMeds')"
-                data-ng-controller="mediSenseController"></span>
-                <span class="title">Medicine Detail</span>
-        </div>
+<div class="navbar navbar-default navbar-fixed-top navTop">
+    <div style="text-align: end" class="topDiv col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <span class="glyphicon glyphicon-chevron-left" style="font-size: x-large;color: white;float: left;margin-top:1%" data-ng-click="back('allMeds')"
+            data-ng-controller="mediSenseController"></span>
+            <span class="title">Medicine Detail</span>
     </div>
     <div class="row">
-        <div style="text-align: center;margin-top: 10%" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div style="text-align: center;padding-top:2rem" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <img src="images/vitamin-pill.svg" width="40%" />
         </div>
     </div>
-    <div class="row" style="margin-top:2%">
-        <div class="medName-heading col-lg-12">{{medObj.Name}}</div>
-        <div style="margin-top:2%" class="customPanel">
-            <p style="font-size: large;font-weight: bolder" class="collapseBtnUpper" data-toggle="collapse" data-target="#ingrList">Active Ingredients<span style="float:right;margin-right:5%;font-size:x-large" class="glyphicon glyphicon-chevron-down glyphAnimateUpper"></span></p>
-            <div id="ingrList" class="collapse">
-                <ul>
-                    <li data-ng-repeat="drug in medObj.Ingredients">{{drug}}</li>
-                </ul>
+</div>
+<div id="wrapper" style="padding-top:22rem">
+    <div id="main-wrapper">
+        <div class="row" style="padding-right: 1.5rem;padding-left: 1.5rem">
+            <div class="medName-heading col-lg-12">{{medObj.Name}}</div>
+            <div style="margin-top:2%" class="customPanel">
+                <p style="font-size: large;font-weight: bolder" class="collapseBtnUpper" data-toggle="collapse" data-target="#ingrList">Active Ingredients<span style="float:right;margin-right:5%;font-size:x-large" class="glyphicon glyphicon-chevron-down glyphAnimateUpper"></span></p>
+                <div id="ingrList" class="collapse">
+                    <ul>
+                        <li data-ng-repeat="drug in medObj.Ingredients">{{drug}}</li>
+                    </ul>
+                </div>
+            </div>
+            <div style="margin-top:2%" class="customPanel">
+                <p style="font-size: large;font-weight: bolder" class="collapseBtnLower" data-toggle="collapse" data-target="#ingrList1">Uses<span style="float:right;margin-right:5%;font-size:x-large" class="glyphicon glyphicon-chevron-down glyphAnimateLower"></span></p>
+                <div id="ingrList1" class="collapse">
+                    <ul>
+                        <li data-ng-repeat="drug in medObj.Symptoms">{{drug}}</li>
+                    </ul>
+                </div>
             </div>
         </div>
-        <div style="margin-top:2%" class="customPanel">
-            <p style="font-size: large;font-weight: bolder" class="collapseBtnLower" data-toggle="collapse" data-target="#ingrList1">Uses<span style="float:right;margin-right:5%;font-size:x-large" class="glyphicon glyphicon-chevron-down glyphAnimateLower"></span></p>
-            <div id="ingrList1" class="collapse">
-                <ul>
-                    <li data-ng-repeat="drug in medObj.Symptoms">{{drug}}</li>
-                </ul>
-            </div>
+        <div data-ng-controller="home-ctrl" class="btn-group footer col-md-12" style="width: 100%" role="group" aria-label="...">
+            <button type="button" class="btn btn-default" style="width: 50%;font-size: large" data-ng-click="navigate('doctors')">
+            <span class="glyphicon glyphicon-map-marker">  Doctors</span></button>
+            <button type="button" class="btn btn-default" style="width: 50%;font-size: large" data-ng-click="navigate('pharmacies')">
+            <span class="glyphicon glyphicon-map-marker">  Pharmacies</span>
+        </button>
         </div>
     </div>
-</div>

@@ -1,3 +1,29 @@
-<div class="container">
-Hello this is symtom detail
+<div class="navbar navbar-default navbar-fixed-top navTop">
+    <div style="text-align: end" class="topDiv col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <span class="glyphicon glyphicon-chevron-left" style="font-size: x-large;color: white;float: left;margin-top:1%" data-ng-click="back('symptom')"
+            data-ng-controller="mediSenseController"></span>
+            <span class="title">Medication</span>
+    </div>
+    <div class="row">
+        <div style="text-align: center;padding-top:2rem" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <img src="images/prescription.svg" width="40%" />
+        </div>
+    </div>
+    <div style="padding-right: 1.5rem;padding-left: 1.5rem;padding-top: 2rem">
+        <span class="medName-heading">Symptom : {{medication.Name}}</span>
+    </div>
+</div>
+<div id="wrapper" style="padding-top:20rem">
+    <div id="main-wrapper">
+        <div class="list-group symptomMedPanel">
+            <a data-ng-repeat="med in medication.Meds" class="list-group-item medList" role="presentation" style="background-color: gold">- {{med}}</a>
+        </div>
+    </div>
+    <div data-ng-controller="home-ctrl" class="btn-group footer col-md-12" style="width: 100%" role="group" aria-label="...">
+        <button type="button" class="btn btn-default" style="width: 50%;font-size: large" data-ng-click="navigate('doctors')">
+            <span class="glyphicon glyphicon-map-marker">  Doctors</span></button>
+        <button type="button" class="btn btn-default" style="width: 50%;font-size: large" data-ng-click="navigate('pharmacies')">
+            <span class="glyphicon glyphicon-map-marker">  Pharmacies</span>
+        </button>
+    </div>
 </div>

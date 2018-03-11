@@ -1,16 +1,16 @@
-<div class="container">
-    <div class="row">
-        <div style="text-align: end" class="topDiv col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <span class="glyphicon glyphicon-chevron-left" style="font-size: x-large;color: white;float: left;margin-top:1%" data-ng-click="back('home')"
-                data-ng-controller="mediSenseController"></span>
-                <span class="title">All Medicines</span>
-        </div>
+<div class="navbar navbar-default navbar-fixed-top navTop">
+    <div style="text-align: end" class="topDiv col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <span class="glyphicon glyphicon-chevron-left" style="font-size: x-large;color: white;float: left;margin-top:1%" data-ng-click="back('home')"
+            data-ng-controller="mediSenseController"></span>
+            <span class="title">Search Medicines</span>
     </div>
-    <div class="row">
-        <input type="text" placeholder="Search" data-ng-model="searchText" class="form-control" />
+    <div class="row" style="padding-top: 6rem">
+        <input type="search" placeholder="Search" data-ng-model="searchText" class="form-control" />
     </div>
-    <div class="row" id="medList">
-        <div class="list-group">
+</div>
+<div id="wrapper" style="padding-top:10rem">
+    <div id="main-wrapper">
+      <div class="list-group">
             <a data-ng-repeat="med in medicines| filter:searchText" class="list-group-item" href="#/medDetail/{{$index}}">{{med.Name}}<span style="float:right" class="glyphicon glyphicon-chevron-right"></span></a>
         </div>
     </div>

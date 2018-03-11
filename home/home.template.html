@@ -1,50 +1,17 @@
-<div class="container-fluid">
-    <div class="row">
-        <div style="text-align: center" class="topDiv col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <span class="title">Consult Me</span>
-        </div>
+<div class="navbar navbar-default navbar-fixed-top navTop">
+    <div style="text-align: center" class="topDiv col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <span class="title">Consult Me</span>
     </div>
-    <br /><br />
-    <div class="row docImg">
-        <div style="text-align: center" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <img src="images/docImage.svg" width="80%"/>
-        </div>
+    <br/><br/>
+    <div style="text-align: center;padding-top:4rem;margin-top: 2rem" class="docImg col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <img src="images/docImage.svg" width="80%" />
     </div>
-    <br /><br />
-    <div class="row" style="text-align: center; margin-top: 2%; margin-bottom: 2%">
-        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-            <span class="btn btn-primary cstBtn" ng-click="navigate('allMeds')" style="width: 100%">
-                All Medicines
-            </span>
-        </div>
-         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6" style="display: none">
-            <span class="btn btn-primary cstBtn" ng-click="navigate('body')" style="width: 100%">
-                Find Ailment
-            </span>
-        </div>
-        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-            <span class="btn btn-primary cstBtn" ng-click="navigate('symptom')" style="width: 100%">
-                Find Symptom
-            </span>
-        </div>
+</div>
+<div id="wrapper" style="padding-top:50rem">
+    <div>
+        <button class="btn btn-primary cstBtn" data-ng-click="navigate('symptom')"><span class="glyphicon glyphicon-search" style="float: left"></span>Symptoms</button>
+        <button class="btn btn-primary cstBtn" data-ng-click="navigate('allMeds')"><span class="glyphicon glyphicon-search" style="float: left"></span>Medicines</button>
+        <button class="btn btn-primary cstBtn" data-ng-click="navigate('doctors')"><span class="glyphicon glyphicon-map-marker" style="float: left"></span>Find Doctors</button>
+        <button class="btn btn-primary cstBtn" data-ng-click="navigate('pharmacies')"><span class="glyphicon glyphicon-map-marker" style="float: left"></span>Find Pharmacies</button>
     </div>
-    <div class="row" style="text-align: center; margin-top: 2%; margin-bottom: 2%">
-        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-            <span class="btn btn-primary cstBtn" ng-click="navigate('pharmacies')" style="width: 100%">
-                Find Pharmacies
-            </span>
-        </div>
-        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-            <span class="btn btn-primary cstBtn" ng-click="navigate('doctors')" style="width: 100%">
-                Find Doctors
-            </span>
-        </div>
-    </div>
-    
-  <!--  <div class="row" style="position: fixed; bottom: 0; width: 100%">
-        <hr class="footerSeparator" />
-        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align: center">
-            <span style="font-size: x-small"x>MediSense gives you ease of finding medicines for common ailments.</span>
-        </div>
-    </div>-->
 </div>

@@ -1,5 +1,5 @@
 'use strict';
-angular.module('core.dataService')
+angular.module('core.dataService', ['ngResource'])
     .factory('dataService', ['$resource',
         function($resource) {
             return {
