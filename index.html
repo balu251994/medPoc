@@ -29,10 +29,27 @@
     <script type="text/javascript" src="mediSense.config.js"></script>
     <script type="text/javascript" src="searchSymptom/symptom.controller.js"></script>
     <script type="text/javascript">
+        function onLoad() {
+            document.addEventListener("deviceready", onDeviceReady, false);
+        }
+
+        function onDeviceReady() {
+            document.addEventListener("backbutton", onBackKeyDown, false);
+        }
+
+
         document.addEventListener('backbutton', function (evt) {
-            if (window.location.href !== "/home") {
+            if(window.location.href !== "http://localhost:8000/git/medPoc/index.html#/symptom"){
+                window.location.href = "http://localhost:8000/git/medPoc/index.html#/home";
+            }
+
+            if(window.location.href !== "http://localhost:8000/git/medPoc/index.html#/allMeds"){
+                window.location.href = "http://localhost:8000/git/medPoc/index.html#/home";
+            }
+            
+            if (window.location.href !== "http://localhost:8000/git/medPoc/index.html#/home") {
                 window.history.back();
-            } else {
+            }else {
                 throw new Error('Exit'); // This will suspend the app
             }
         }, false);
@@ -41,9 +58,10 @@
     <title>Consult Me</title>
 </head>
 
-<body ng-controller="mediSenseController">
+<body ng-controller="mediSenseController" onload="onLoad()">
     <div style="overflow: hidden">
         <div ng-view></div>
     </div>
 </body>
+
 </html>

@@ -79,22 +79,24 @@ app.controller('symptom-ctrl', ["$scope", "dataService", "symptomDataService", f
 
         if (symType === "genSym") {
             $scope.Symptoms = sympDataSvc.getGenSymp();
-            $scope.Type = "gen";
+            $scope.Type = "genSym";
         } else {
             $scope.Symptoms = sympDataSvc.getA2ZSymp();
-            $scope.Type = "a2z";
+            $scope.Type = "a2zSym";
         }
     }
 
     if (sympDataSvc.getListType() === "a2z") {
         $scope.symTypeClick('#a2zSym', '#a2zSymA', '#genSym', '#genSymA', 'a2zSym');
+    }else{
+        $scope.symTypeClick('#genSym', '#genSymA','#a2zSym', '#a2zSymA', 'genSym');
     }
 }]);
 app.controller('symptomDetail-ctrl', ["symptomDataService", "$routeParams", "$scope", function (sympDataSvc, $routeParams, $scope) {
     var key = $routeParams.id;
     var type = $routeParams.type;
     sympDataSvc.setListType(type);
-    if(type === "gen"){
+    if(type === "genSym"){
         var data = sympDataSvc.getGenSymp();
         data = $.grep(data,function(v){
             if(v.Name === key){

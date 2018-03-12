@@ -85,7 +85,7 @@ a.list-group-item.medList:focus, a.list-group-item.medList:hover{
 }
 
 .symptomMedPanel{
-    top:40%;
+    top:45%;
     bottom:5%;
     position: absolute;
     overflow-y: scroll;

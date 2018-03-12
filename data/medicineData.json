@@ -14,36 +14,6 @@
 			]
 		},
 		{
-			"Name": "ACCUTANE",
-			"Ingredients": [
-				"ISOTRETINOIN"
-			],
-			"Symptoms": [
-				"Severe Acne"
-			]
-		},
-		{
-			"Name": "ACEBUTOLOL HYDROCHLORIDE",
-			"Ingredients": [
-				"ACEBUTOLOL HYDROCHLORIDE"
-			],
-			"Symptoms": [
-				"Hypertension",
-				"Arrhythmias",
-				"High Blood Pressure"
-			]
-		},
-		{
-			"Name": "ACEON",
-			"Ingredients": [
-				"PERINDOPRIL ERBUMINE"
-			],
-			"Symptoms": [
-				"Hypertension",
-				"High Blood Pressure"
-			]
-		},
-		{
 			"Name": "ACEPHEN",
 			"Ingredients": [
 				"ACETAMINOPHEN"
@@ -77,15 +47,6 @@
 			]
 		},
 		{
-			"Name": "ACETYLCYSTEINE",
-			"Ingredients": [
-				"ACETYLCYSTEINE"
-			],
-			"Symptoms": [
-				"Blood Sugar"
-			]
-		},
-		{
 			"Name": "ACHES-N-PAIN",
 			"Ingredients": [
 				"IBUPROFEN"
@@ -96,25 +57,6 @@
 				"Menstrual Cramps",
 				"Muscle Aches",
 				"Arthritis"
-			]
-		},
-		{
-			"Name": "ADAGEN",
-			"Ingredients": [
-				"PEGADEMASE BOVINE"
-			],
-			"Symptoms": [
-				"Severe Combined Immunodeficiency Disease (SCID)"
-			]
-		},
-		{
-			"Name": "ADALAT CC",
-			"Ingredients": [
-				"NIFEDIPINE"
-			],
-			"Symptoms": [
-				"High Blood Pressure",
-				"Chest Pain"
 			]
 		},
 		{
@@ -220,39 +162,12 @@
 			]
 		},
 		{
-			"Name": "ADZENYS ER",
-			"Ingredients": [
-				"AMPHETAMINE"
-			],
-			"Symptoms": [
-				"Attention Deficit Hyperactivity Disorder (ADHD) "
-			]
-		},
-		{
 			"Name": "AEROSEB-DEX",
 			"Ingredients": [
 				"DEXAMETHASONE"
 			],
 			"Symptoms": [
 				"Nausea"
-			]
-		},
-		{
-			"Name": "ALDACTONE",
-			"Ingredients": [
-				"SPIRONOLACTONE"
-			],
-			"Symptoms": [
-				"High Blood Pressure"
-			]
-		},
-		{
-			"Name": "ALDARA",
-			"Ingredients": [
-				"IMIQUIMOD"
-			],
-			"Symptoms": [
-				"Anal Warts"
 			]
 		},
 		{
@@ -366,26 +281,6 @@
 			]
 		},
 		{
-			"Name": "BACLOFEN",
-			"Ingredients": [
-				"BACLOFEN"
-			],
-			"Symptoms": [
-				"Muscle Spasms"
-			]
-		},
-		{
-			"Name": "BACTRIM",
-			"Ingredients": [
-				"SULFAMETHOXAZOLE",
-				" TRIMETHOPRIM"
-			],
-			"Symptoms": [
-				"Urinary Tract Infection",
-				"Diarrhea"
-			]
-		},
-		{
 			"Name": "BACTROBAN",
 			"Ingredients": [
 				"MUPIROCIN"
@@ -427,25 +322,6 @@
 				"Itch",
 				"Rash",
 				"Skin Irritation"
-			]
-		},
-		{
-			"Name": "BONIVA",
-			"Ingredients": [
-				"IBANDRONATE SODIUM"
-			],
-			"Symptoms": [
-				"Osteoporosis"
-			]
-		},
-		{
-			"Name": "BONJESTA",
-			"Ingredients": [
-				"DOXYLAMINE SUCCINATE",
-				" PYRIDOXINE HYDROCHLORIDE"
-			],
-			"Symptoms": [
-				"Nausea (ONLY FOR PREGNANT WOMEN)"
 			]
 		},
 		{

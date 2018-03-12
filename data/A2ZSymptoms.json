@@ -145,6 +145,12 @@
             "Meds": []
         },
         {
+            "Name": "Anal Warts",
+            "Meds": [
+                "No OTC Medicine for this symptom. Please see your Doctor soon."
+            ]
+        },
+        {
             "Name": "Anaphylactic Shock",
             "Meds": []
         },
@@ -237,6 +243,12 @@
             "Meds": []
         },
         {
+            "Name": "Arrhythmias",
+            "Meds": [
+                "No OTC Medicine for this symptom. Please see your Doctor soon."
+            ]
+        },
+        {
             "Name": "Asbestosis",
             "Meds": []
         },
@@ -297,8 +309,10 @@
             "Meds": []
         },
         {
-            "Name": "Attention Deficit Hyperactivity Disorder (Adhd)",
-            "Meds": []
+            "Name": "Attention Deficit Hyperactivity Disorder (ADHD)",
+            "Meds": [
+                "No OTC Medicine for this symptom. Please see your Doctor soon."
+            ]
         },
         {
             "Name": "Atypical Mole (Nevus)",
@@ -1686,7 +1700,9 @@
         },
         {
             "Name": "High Blood Pressure (Hypertension)",
-            "Meds": []
+            "Meds": [
+                "No OTC Medicine for this symptom. Please see your Doctor soon."
+            ]
         },
         {
             "Name": "Hip (Acetabular) Labral Tear",
@@ -1986,7 +2002,9 @@
         },
         {
             "Name": "Low Blood Sugar (Hypoglycemia)",
-            "Meds": []
+            "Meds": [
+                "No OTC Medicine for this symptom. Please see your Doctor soon."
+            ]
         },
         {
             "Name": "Low Fiber Diet",
@@ -2185,6 +2203,12 @@
             "Meds": []
         },
         {
+            "Name": "Muscle Spasms",
+            "Meds": [
+                "No OTC Medicine for this symptom. Please see your Doctor soon."
+            ]
+        },
+        {
             "Name": "Myasthenia Gravis",
             "Meds": []
         },
@@ -2223,6 +2247,12 @@
         {
             "Name": "Nasal Polyps",
             "Meds": []
+        },
+        {
+            "Name": "Nausea (Pregnant Women)",
+            "Meds": [
+                "No OTC Medicine for this symptom. Please see your Doctor soon."
+            ]
         },
         {
             "Name": "Nearsightedness",
@@ -2346,7 +2376,9 @@
         },
         {
             "Name": "Osteoporosis",
-            "Meds": []
+            "Meds": [
+                "No OTC Medicine for this symptom. Please see your Doctor soon."
+            ]
         },
         {
             "Name": "Ovarian Cancer",
@@ -2897,12 +2929,24 @@
             "Meds": []
         },
         {
+            "Name": "Severe Acne",
+            "Meds": [
+                "No OTC Medicine for this symptom. Please see your Doctor soon."
+            ]
+        },
+        {
             "Name": "Severe Acute Respiratory Syndrome (Sars)",
             "Meds": []
         },
         {
             "Name": "Severe Allergic Reaction (Anaphylactic Shock)",
             "Meds": []
+        },
+        {
+            "Name": "Severe Combined Immunodeficiency Disease (SCID)",
+            "Meds": [
+                "No OTC Medicine for this symptom. Please see your Doctor soon."
+            ]
         },
         {
             "Name": "Shigellosis",
@@ -3326,7 +3370,9 @@
         },
         {
             "Name": "Urinary Tract Infection (Uti)",
-            "Meds": []
+            "Meds": [
+                "No OTC Medicine for this symptom. Please see your Doctor soon."
+            ]
         },
         {
             "Name": "Uterine Cancer",
