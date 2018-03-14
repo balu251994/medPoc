@@ -1,16 +1,22 @@
 'use-strict';
 var index;
-angular.module('all-meds', ["core.dataService", "ngRoute"])
+var app = angular.module('all-meds', ["core.dataService", "ngRoute"])
     .controller('all-meds-ctrl', ["dataService", "$scope", function (ds, $scope) {
-        var med = ds.medArr.query(function (data) {
+      /*  var med = ds.medArr.query(function (data) {
             $scope.medicines = data.medicines;
-            index = data.medicines;
-        });
-
+            
+        }); */
+        $scope.medicines = ds.medicines();
+        index = $scope.medicines;
     }])
     .controller('medDetailCont', function ($routeParams, $scope) {
-        var id = $routeParams.id;
-        $scope.medObj = index[id];
+        var key = parseInt($routeParams.id);
+        var medData = $.grep(index,function(v){
+            if(v.medId === key){
+                return true;
+            }
+        });
+        $scope.medObj = medData[0];
         $('.collapseBtnUpper').click(function () {
             var angle = $('.glyphAnimateUpper').css("transform");
             if (angle === "none" || angle === "matrix(1, 0, 0, 1, 0, 0)") {
