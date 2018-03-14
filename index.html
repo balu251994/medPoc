@@ -34,23 +34,14 @@
         }
 
         function onDeviceReady() {
-            document.addEventListener("backbutton", onBackKeyDown, false);
+            console.log("Device ready");
         }
 
-
         document.addEventListener('backbutton', function (evt) {
-            if(window.location.href !== "http://localhost:8000/git/medPoc/index.html#/symptom"){
-                window.location.href = "http://localhost:8000/git/medPoc/index.html#/home";
-            }
-
-            if(window.location.href !== "http://localhost:8000/git/medPoc/index.html#/allMeds"){
-                window.location.href = "http://localhost:8000/git/medPoc/index.html#/home";
-            }
-            
-            if (window.location.href !== "http://localhost:8000/git/medPoc/index.html#/home") {
+            if(window.location.href === "file:///android_asset/www/index.html#/home") {
+                navigator.app.exitApp();
+            } else {
                 window.history.back();
-            }else {
-                throw new Error('Exit'); // This will suspend the app
             }
         }, false);
     </script>

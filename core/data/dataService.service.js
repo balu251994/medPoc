@@ -33,6 +33,7 @@ angular.module('core.dataService', ['ngResource'])
                         });
                     },
                     error: function (err) {
+                        alert("Something went wrong. Please try again later.");
                         console.log(err);
                     }
                 });

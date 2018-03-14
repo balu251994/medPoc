@@ -11,7 +11,7 @@
 <div id="wrapper" style="padding-top:10rem">
     <div id="main-wrapper">
       <div class="list-group">
-            <a data-ng-repeat="med in medicines| filter:searchText" class="list-group-item" href="#/medDetail/{{med.medId}}">{{med.Name}}<span style="float:right" class="glyphicon glyphicon-chevron-right"></span></a>
+            <a data-ng-repeat="med in medicines| filter:searchText | filter:'!' + noOtcText" class="list-group-item" href="#/medDetail/{{med.medId}}">{{med.Name}}<span style="float:right" class="glyphicon glyphicon-chevron-right"></span></a>
         </div>
     </div>
 </div>

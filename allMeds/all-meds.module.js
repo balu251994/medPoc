@@ -7,6 +7,7 @@ var app = angular.module('all-meds', ["core.dataService", "ngRoute"])
             
         }); */
         $scope.medicines = ds.medicines();
+        $scope.noOtcText = "No OTC medicines for this symptom";
         index = $scope.medicines;
     }])
     .controller('medDetailCont', function ($routeParams, $scope) {
